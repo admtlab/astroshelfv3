@@ -1,0 +1,11 @@
+[
+	[
+	{"_Name": "2014D", "_RA": 186.8042, "_Dec": 9.4203, "_Type": "Ia", "_Redshift": 0.001, "_Mag": 16.9, "_B-Peak": "2013-03-03", "_Priority": 0.9},
+	{"_obsDuration": 50, "_obsGap": 1, "_obsTimes": 2}
+	],
+	
+	[
+	{"_Name": "2014E", "_RA": 198.8125, "_Dec": -17.9656, "_Type": "Ia", "_Redshift": 0.009, "_Mag": 14.7, "_B-Peak": "2013-03-03", "_Priority": 0.9},
+	{"_obsDuration": 50, "_obsGap": 1, "_obsTimes": 1}
+	]
+]

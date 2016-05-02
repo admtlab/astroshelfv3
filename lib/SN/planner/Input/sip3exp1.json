@@ -1,0 +1,16 @@
+[
+	[
+	{"_Name": "2014A", "_RA": 186.8042, "_Dec": 9.4203, "_Type": "Ia", "_Redshift": 0.001, "_Mag": 16.9, "_B-Peak": "2013-03-21", "_Priority": 0.9},
+	{"_obsDuration": 45, "_obsGap": 1, "_obsTimes": 1}
+	],
+	
+	[
+	{"_Name": "2014B", "_RA": 198.8125, "_Dec": -17.9656, "_Type": "Ia", "_Redshift": 0.009, "_Mag": 14.7, "_B-Peak": "2013-03-21", "_Priority": 0.5},
+	{"_obsDuration": 25, "_obsGap": 1, "_obsTimes": 1}
+	],
+	
+	[
+	{"_Name": "2014C", "_RA": 206.4000, "_Dec": -7.3256, "_Type": "Ia", "_Redshift": 0.021, "_Mag": 16.5, "_B-Peak": "2013-03-21", "_Priority": 0.5},
+	{"_obsDuration": 25, "_obsGap": 1, "_obsTimes": 1}
+	]
+]

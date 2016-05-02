@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	<title>Add New Supernovas</title>
+    	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    </head>
+    <body>
+    	<label>Click on the button below to add the new supernovas. A drag-and-drop/file upload feature is currently being developed.</label>
+    	<br/>
+    	<label>Enter the file name: <input type="text" id="filenameInput" name="Filename" /></label> 
+    	<button id="addsupernovas">Add new supernovas</button>
+    	<div id="response"></div>
+
+    	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js" type="text/javascript"></script>
+
+    	<script type="text/javascript">
+    		$(document).ready(function(){
+    			$( '#addsupernovas' ).button()
+    				.on('click', function(){
+    					$.ajax({
+    						type: "POST",
+    						url: "http://astro.cs.pitt.edu/di/SN/web/db/add_supernovas.php",
+    						dataType: "text",
+    						data: {'addNewSupernovas': 1, 'filename': $('#filenameInput').val()}
+    					}).done(function(msg){
+    						$('#response').text(msg);
+    					}).fail(function(jqXHR, textStatus, errorThrown){
+    						console.log(textStatus + ": " + errorThrown);
+    					});
+    				});
+    		});
+    	</script>
+    </body>
+</html>

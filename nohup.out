@@ -1,0 +1,18 @@
+Astroservice started on port 21003.
+Error initializing middleware
+Error: EACCES: permission denied, open '/etc/httpd/conf/ssl.key/cs.pitt.edu4096.key'
+    at Error (native)
+    at Object.fs.openSync (fs.js:584:18)
+    at Object.fs.readFileSync (fs.js:431:33)
+    at /afs/cs.pitt.edu/projects/admt/web/sites/astro/astroshelfv3/astroservice/astroservice.js:81:19
+    at /afs/cs.pitt.edu/projects/admt/web/sites/astro/astroshelfv3/astroservice/node_modules/swagger-tools/index.js:85:7
+    at cbWrapper (/afs/cs.pitt.edu/projects/admt/web/sites/astro/astroshelfv3/astroservice/node_modules/swagger-tools/lib/specs.js:1035:5)
+    at validateSwagger2_0 (/afs/cs.pitt.edu/projects/admt/web/sites/astro/astroshelfv3/astroservice/node_modules/swagger-tools/lib/specs.js:1030:3)
+    at validateSemantically (/afs/cs.pitt.edu/projects/admt/web/sites/astro/astroshelfv3/astroservice/node_modules/swagger-tools/lib/specs.js:1040:5)
+    at /afs/cs.pitt.edu/projects/admt/web/sites/astro/astroshelfv3/astroservice/node_modules/swagger-tools/lib/specs.js:1233:7
+    at /afs/cs.pitt.edu/projects/admt/web/sites/astro/astroshelfv3/astroservice/node_modules/swagger-tools/lib/specs.js:1073:29
+Astroservice started on port 21003.
+Intercepting cross-origin request GET
+Responding to login attempt
+Intercepting cross-origin request GET
+Responding to login attempt

@@ -1,0 +1,3 @@
+cd /afs/cs.pitt.edu/projects/admt/web/sites/astro/di/SN/aggregator
+php -f rss_feed_aggregator.php >> log/access_log.log
+#php -f rss_result_fix.php >> log/fix_log.log

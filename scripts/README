@@ -1,0 +1,32 @@
+Here are the python scripts.  To run them, type python scriptname at the command line.  
+
+You need the feedparser library for the Sky Alerts.  Untar feedparser-5.1.2.tar.gz, go inside the folder, and type
+python setup.py install to install the library.  
+
+
+search_annotations.py	- 	this script searches the annotations on a keyword, prints the results, and outputs a file
+				as results_search_annotations.csv.  It is currently set to search on keyword "wrong".  
+				"binary" for binary stars works. I have not been able to get past the 100 item return limit.  
+
+
+add_single_object.py	-	these scripts add (and delete) a single object into the database. They can be used for testing.
+delete_single_object.py		If they work then the skyalert scripts should work.  Deletion works by searching the database
+				for annotations with specific keywords, grabbing the annotation and object ids and deleting both  
+
+
+skyalert_moa.py		-	adds the 20 most recent Microlensing Events from the SkyAlert feed into the database.
+				It adds two annotations for every event, one with a text note describing the event, and 
+				a second which contains a link to the events page with more detail.  I would use this script.  
+				All the feeds take 10ish seconds or so to load.  
+
+skyalert_ctrs.py	-	for ease, here are two additional scripts that will insert events from a SWIFT gamma-ray burst
+skyalert_swift.py		feed, or from transient events from the Catalina Realtime Transient Survey.  Alternatively,
+				you may use skyalert_moa.py and just comment out the feed line at the beginning and uncomment
+				the new one you want to use.  The Swift one takes about 30 seconds to load the feed,maybe more.   
+
+delete_skyalerts.py	-	this script deletes all the SkyAlert annotations and objects in the database, by first
+				searching for annotations with the keyword "SkyAlert", then grabbing the annotation and object
+				ids, and deleting them.  If you run one skyalert script, then run the delete script, it will 
+				remove everything.  If you run two scripts in a row, say skyalert_moa.py then skyalert_swift.py,
+				then you may have to run the delete script twice to delete both sets.  I'm still working on 
+				that.  

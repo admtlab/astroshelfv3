@@ -1,0 +1,162 @@
+Annotation Search Results based on Keyword: wrong 
+Found 32 results! 
+--------------------------------
+Annotation 1
+Object at RA,DEC: 13.819,-5.390 
+Survey: SIMBAD
+Note:  The identification of RCW 95 with [DBS2003] 95 is wrong.  RCW 95 is BBW 29400c, the 2 arcmin bright nebula 12 arcmin to the North of GAL 326.7+00.5.
+--------------------------------
+Annotation 2
+Object at RA,DEC: 20.735,-45.636 
+Survey: SIMBAD
+Note:  The redshift value of this object is obviously wrong Looking at the table 2 of this paper (http://www.iop.org/EJ/article/1538-3881/121/4/1863/200317.html) , the redshift has been mixed up with the next column.
+--------------------------------
+Annotation 3
+Object at RA,DEC: 31.072,-37.003 
+Survey: SIMBAD
+Note:  On the main data page, this object appears to be identified with the wrong USNO-B1.0 object (USNO-B1.0 1135-00197812), which is at +23.5 degrees declination.  I believe the correct identification is USNO-B1.0 0664-00280262, which is at -23.5 degrees declination and has proper motion matching that from Schmitz et al. 2007.
+--------------------------------
+Annotation 4
+Object at RA,DEC: 21.453,-58.830 
+Survey: SIMBAD
+Note:  Wrong NIR photometry. The original values (from the reference) are: J=16.49 (11) H=13.23 (9) K=10.92 (10)  Cheers  A. Roman-Lopes
+--------------------------------
+Annotation 5
+Object at RA,DEC: 7.771,-20.817 
+Survey: SIMBAD
+Note:  The magnitude B is wrong.  Actually, Simbad has many objets with a Bmag equals to 0.0, whereas it should be set to null. See here for a complete list (http://simbad.u-strasbg.fr/simbad/sim-sam?Criteria=%20Bmag%3c0.0001%20%26%20Bmag%3e-0.0001&amp;amp;submit=submit%20query&amp;amp;maxObject=10000&amp;amp;OutputMode=LIST).
+--------------------------------
+Annotation 6
+Object at RA,DEC: 8.733,-10.715 
+Survey: SIMBAD
+Note:  Hi, I suspect the position given for this object is wrong. NED is giving slightly different coordinates (NED: 03h58m54.4s +10d26m03s), and on several own CCD frames of this position, I do not see any hint of an object at the SIMBAD position, whereas at the NED position, there is a bright extended object.
+--------------------------------
+Annotation 7
+Object at RA,DEC: 9.900,-61.476 
+Survey: SIMBAD
+Note:  The data for Kappa1 Cet (= HD 20630) are wrong.  Apparently, the star has been cross-identified with another star in a totally different sky region (southern  hemisphere) or, better, it has been identified with two  stars (HD 20630 and HD 89465) the first of which is really  Kappa1 Cet. The same double cross-identification is apparent from the  HIP and HIC names.  Anyway, the stellar data listed in the main page are not  those of Kappa1 Cet which has a spectral type G5V a  magnitude V=4.8 and coordinates RA=03 19 20.7  DEC= +03 22 08  at J2000.  Some time ago I searched for data of this star with  Simbad and they were OK, thus the error should be occurred not from the beginning.  Best regards, Antonio Frasca
+--------------------------------
+Annotation 8
+Object at RA,DEC: 35.472,-6.782 
+Survey: SIMBAD
+Note:  Identifier Cl*  Berkeley 32 KM 351 is wrong. (KM 351 = RS 1720, see e.g. http://www.univie.ac.at/webda/cgi-bin/cross.cgi?be032)
+--------------------------------
+Annotation 9
+Object at RA,DEC: 27.740,-73.646 
+Survey: SIMBAD
+Note:  This is in fact identical with &lt;a href='http://simbad.u-strasbg.fr/simbad/sim-id?Ident=NLTT+1398&amp;NbIdent=1&amp;Radius=2&amp;Radius.unit=arcmin&amp;submit=submit+id'&gt;NLTT 1398 . It seems that the originally published coordinates for G 32-18 in &lt;a href='http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?1959LowOB...4..136G'&gt;1959LowOB...4..136G  suffer from a typo in the object table where the declination is wrongly given as +14 53 00 instead of 14 43 00. The finder chart for G 32-18 in the same paper clearly confirms that this is indeed NLTT 1398. Proper motions are compatible as well.
+--------------------------------
+Annotation 10
+Object at RA,DEC: 1.514,-37.904 
+Survey: SIMBAD
+Note:  This star's position appears to be incorrect on the Simbad main data page, and the identification also is applied to the wrong star on the Aladin image.  The LSPM-North catalog identifies NLTT 2058 with 2MASS J00383388+5127579, which is 24.4&amp;quot; NNW of the listed Simbad position.  The data in NLTT, Yale GCTP, pCNS3, USNO-B1.0, Reid et al 1995, PPMX, and UCAC3 all seem to support this identification.  Salim and Gould (2003, ApJ, 582, 1011) incorrectly identified this star with 2MASS-I J0038355+512738 (= 2MASS J00383550+5127388) in their revised NLTT catalog, and the position of this star appears to be the one used in Simbad.  The JHKs photometry of this 2MASS source does not match that of a nearby M2.5 V star (Reid et al. 1995).  Also, UCAC2 lists a very small proper motion for this star (11.1 mas/yr at direction angle 235 deg).  GJ 3045/NLTT 2058 can also be identified with UCAC3 283-011681 and PPMX J003833.8+512758.  To avoid confusion, I suggest removing the 2MASS J00383550+5127388 identifier from the Simbad main data page.
+--------------------------------
+Annotation 11
+Object at RA,DEC: 20.586,-48.254 
+Survey: SIMBAD
+Note:  The coordinates and B V magnitudes of BD +42 3333 are wrong. This mistake is also present in the Vizier database.  The true coordinates at J2000 are: 19 24 41.70
+--------------------------------
+Annotation 12
+Object at RA,DEC: 19.950,-26.621 
+Survey: SIMBAD
+Note:  coordinates are wrong. Correct position given by &lt;a href='http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2008GCN..7989....1G'&gt;Guidorzi et al., GCN Circ. 7989
+--------------------------------
+Annotation 13
+Object at RA,DEC: 30.188,-37.061 
+Survey: SIMBAD
+Note:  The star HD 213013 is also listed in SIMBAD as ADS 15966 A , as HIP 110911, and as ** STF 910A  . That last Identifier may be wrong.   The companion star, BD+22 4645B is listed as ADS 15966 B ,  and as ** STF 2910B.  Therefore, I think the first star should be listed as ** STF 2910A  .
+--------------------------------
+Annotation 14
+Object at RA,DEC: 24.364,-80.149 
+Survey: SIMBAD
+Note:  HIP2 gives plx = 146.84 [29.81] while its A-component HIP 85607 has HIP/SIMBAD plx = 2.72 [3.44] (HIP2 gives the negative value = -1.19 [1.83]). So, something should be decided and corrected IMO : 1) either one or both parallaxes are wrong or 2) these stars are not in a double system.   Well, I'd suggest to put an essential note for HIP 85605 saying that its parallax is inconsistent with the parallax of the A-component HIP 85607.
+--------------------------------
+Annotation 15
+Object at RA,DEC: 19.693,-68.885 
+Survey: SIMBAD
+Note:  Hi Everyone,  I found an interesting result using the SkyView 2MASS Survey with your Powerful Aladin Tool. I have a really interesting rounded shape fading the Infrared Light over two of the three 2MASS Surveys available (K and H). I may send you the FITS concerning this &lt;a href='http://simbad.u-strasbg.fr/simbad/sim-id?Ident=2MASS+J19303972%2B1850067&amp;NbIdent=1&amp;Radius=2&amp;Radius.unit=arcmin&amp;submit=submit+id'&gt;2MASS J19303972+1850067  star.  Reading the ESA and NASA Missions reports and others Astronomical news, it seems that we may have found another Exoplanet but I am also sure that you found it before... or I may be totaly wrong about it...  Anyways be sure that I am happy to help and so ashamed to bother the teams with spam!  You may contact me at this address if necessary: bertrand.thomas.secure@googlemail.com.  Good day to all of you!  Best regards,  Bertrand
+--------------------------------
+Annotation 16
+Object at RA,DEC: 22.097,-16.593 
+Survey: SIMBAD
+Note:  Star 2 Lyr or HD 169702 should be the same as Mu Lyrae (name Alathfar in Bright Star Catalogue). At the position of the Simbad coordinates for Mu Lyrae there is no 5th magnitude star. Probably something went wrong?  Greetings Wim Achten, Netherlands
+--------------------------------
+Annotation 17
+Object at RA,DEC: 17.390,-33.809 
+Survey: SIMBAD
+Note:  The statement under Essential Notes is wrong  there is no SNR around this anomalous X-ray Pulsar and in any case it has nothing to do with 1E1841 which is the AXP in the kes 73 SNR  best regards sandro
+--------------------------------
+Annotation 18
+Object at RA,DEC: 0.000,0.000 
+Survey: SIMBAD
+Note:  Sh 2-279 seems to have a wrong declination sign associated; according to the original list of &lt;a href='http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?1959ApJS....4..257S'&gt;Sharpless (1959) , the coordinates are RA 05 30 24 -04 52 00 (1900), which transforms into 05 35 20 -04 48 03 (J2000). This and the description given by Sharpless suggest that Sh2-279 is identical with NGC 1977.  best regards, M. Kronberger
+--------------------------------
+Annotation 19
+Object at RA,DEC: 0.000,0.000 
+Survey: SIMBAD
+Note:  Wrong coordinates in discovery paper by &lt;a href='http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?1964AN....288...49H'&gt;Hoffmeister, 1964 . Right ascension is correct, but declination is swapped with &lt;a href='http://simbad.u-strasbg.fr/simbad/sim-id?Ident=EW+Cep&amp;NbIdent=1&amp;Radius=2&amp;Radius.unit=arcmin&amp;submit=submit+id'&gt;EW Cep . Correct identification is USNO-B1.0 1747-0004061 (J2000.0 coordinates R.A.=01 43 17.33, Dec.=+84 43 53.65) = 2MASS J01431743+8443536 = NSVS 63649. Variable of RR Lyr type with 0.5842d period.
+--------------------------------
+Annotation 20
+Object at RA,DEC: 0.000,0.000 
+Survey: SIMBAD
+Note:  Wrong coordinates in discovery paper by &lt;a href='http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?1964AN....288...49H'&gt;Hoffmeister, 1964 . Right ascension is correct, but declination is swapped with &lt;a href='http://simbad.u-strasbg.fr/simbad/sim-id?Ident=EV+Cep&amp;NbIdent=1&amp;Radius=2&amp;Radius.unit=arcmin&amp;submit=submit+id'&gt;EV Cep . Correct identification is USNO-B1.0 1750-0004880 (J2000.0 coordinates R.A.=01 53 30.68, Dec.=+85 03 44.95) = 2MASS J01533071+8503448.
+--------------------------------
+Annotation 21
+Object at RA,DEC: 0.000,0.000 
+Survey: SIMBAD
+Note:  Wrong radial velocity (274951 km/s !!!) Vrad = 3.9 +/- 2.3 km/s (Jeffries et al. 1995, MNRAS 276, 397)
+--------------------------------
+Annotation 22
+Object at RA,DEC: 24.279,-9.149 
+Survey: SDSS
+Note: &quot;&quot;IRAS 01346-0924 was identified by de Grijp et al. (1987) with a galaxythey called MCG -02.05.022&quot;, which seems to be erroneous. It wasclassified a Seyfert 2 by de Grijp et al. (1992) on the basis of itsemission-line ratios. We discussed this object in Paper I, giving it thewrong name (MCG -02.05.022); we suggested, on the basis of a bluespectrum,&quot; that it was &quot;&quot;&quot;&quot;composite&quot;&quot;&quot;&quot;. The best blue spectrum fit isobtained with three sets of three Gaussians&quot;,&quot; two being typical of a H IIregion and the third of a weak Seyfert 2 nebulosity. A weak broad(FWHM ~ 2640 km s^-1^) H{alpha} component may also be present. TheSeyfert 2 cloud is so weak that it is not detected on our red spectrum.&quot;&quot;
+--------------------------------
+Annotation 23
+Object at RA,DEC: 24.348,-9.169 
+Survey: SDSS
+Note: &quot;&quot;IRAS 01346-0924 was identified by de Grijp et al. (1987) with a galaxythey called MCG -02.05.022&quot;, which seems to be erroneous. It wasclassified a Seyfert 2 by de Grijp et al. (1992) on the basis of itsemission-line ratios. We discussed this object in Paper I, giving it thewrong name (MCG -02.05.022); we suggested, on the basis of a bluespectrum,&quot; that it was &quot;&quot;&quot;&quot;composite&quot;&quot;&quot;&quot;. The best blue spectrum fit isobtained with three sets of three Gaussians&quot;,&quot; two being typical of a H IIregion and the third of a weak Seyfert 2 nebulosity. A weak broad(FWHM ~ 2640 km s^-1^) H{alpha} component may also be present. TheSeyfert 2 cloud is so weak that it is not detected on our red spectrum.&quot;&quot;
+--------------------------------
+Annotation 24
+Object at RA,DEC: 159.065,3.321 
+Survey: SDSS
+Note: 10 33 40.5 03 34 49. The redshift given by Keable (1987) (z = 1.513) iswrong. Our observation of this quasar gives the redshift, unambiguously,as z = 0.389.
+--------------------------------
+Annotation 25
+Object at RA,DEC: 138.445,35.151 
+Survey: SDSS
+Note: The VLA A-array map and optical identification of the sourcepublished in Paper IV (1983AJ.....88.1591M) were wrong. Thecorrect map reproduced from the FIRST survey (courtesy ofR.H. Becker) with the new identification indicated is shown inFigure A2 (Appendix)
+--------------------------------
+Annotation 26
+Object at RA,DEC: 190.784,14.520 
+Survey: SDSS
+Note: Declination wrong in Reaves (1983).
+--------------------------------
+Annotation 27
+Object at RA,DEC: 225.534,25.479 
+Survey: SDSS
+Note: &quot;&quot;White (Private communication&quot;, 2002), when asked about the discordantredshift given in 2000ApJS..126..133W,&quot; says that it is possible that&quot;&quot;&quot;&quot;we wound up with a spectrum of the wrong object. Since objects withemission lines as strong as those shown in the Ofek paper are rare&quot;,&quot;it is unlikely that they were the ones observing the wrong target.&quot;&quot;&quot;&quot;&quot;&quot;
+--------------------------------
+Annotation 28
+Object at RA,DEC: 184.728,29.968 
+Survey: SDSS
+Note: 1AXG J121854+2957 (NO07).-There is a ROSAT PSPC source in the errorcircle of the AMSSn source. The brightest object in the PSPC errorcircle (17_01) is a narrow-line AGN at z = 0.178. For the line ratiodiagnostic of the object, see Figure 4. This AMSSn source is identifiedwith 17_01. It is a very red object (J-K_s_ = 2.9) and is discussed insection 4.2.3. 08_07 is an elliptical galaxy at the same redshift.02_00, which is located outside of the finding chart, is another companiongalaxy of 17_01 with H II-region-like narrow emission lines (seeFig. 4). The redshift difference between 17_01 and 02_00 corresponds tothe velocity difference of 1500 km s^-1^   [This source is also detected by BeppoSAX and identified with an AGN atz = 0.18 (Fiore et al. 1999). The optical spectrum shown in their paperis that of 17_01, but the coordinate of the optical counterpart in theirlist is that of 08_07. The J- and K_S_-band magnitudes listed inMaiolino et al. 2000 are also wrong.
+--------------------------------
+Annotation 29
+Object at RA,DEC: 129.353,14.972 
+Survey: SDSS
+Note: A689  This galaxy was observed in C95, but the redshift given in thatpaper is wrong. The spectrum is very noisy, and shows a very blue galaxywith uncertain stellar absorption features. The new redshift has beendetermined by Ebeling, Henry &amp; Mullis (1999), and is confirmed as theredshift of the cluster from spectra of two other galaxies. The X-raysource is coincident with a moderately bright radio source, which couldcontribute significantly to the X-ray flux of the total clusteremission.
+--------------------------------
+Annotation 30
+Object at RA,DEC: 183.826,5.761 
+Survey: SDSS
+Note: = Haro 6 (Bol. Tonantzintla, No. 14, June 1956).NGC 4197 at 1 arcmin preceding.UGC identification wrong.Photometry: A.J.,73,882, 1968. A.J.,75,1143, 1970.Isodensitometry: Ap. J. Suppl.,26, No. 230, 1973.
+--------------------------------
+Annotation 31
+Object at RA,DEC: 186.522,11.812 
+Survey: SDSS
+Note: Karachentsev and Karachentsev (1982) give a (heliocentric) velocityof 13931 km/s ; which clearly must be wrong judged from the galaxy'smorphology.
+--------------------------------
+Annotation 32
+Object at RA,DEC: 191.039,11.177 
+Survey: SDSS
+Note: Declination wrong in Reaves (1983).

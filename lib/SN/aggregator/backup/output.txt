@@ -1,0 +1,530 @@
+ 
+
+
+
+
+Getting RSS feeds from Skyalert/CBAT: Central Bureau for Astronomical Telegrams ...
+1
+====================================
+
+Array
+(
+    [0] => Skyalert/CBAT: Central Bureau for Astronomical Telegrams
+    [1] => 1
+    [2] => 1360495025
+    [3] => Array
+        (
+            [0] => CBAT
+        )
+
+    [4] => Array
+        (
+            [0] => http://skyalert.org/event/xml/830570
+        )
+
+    [5] => Array
+        (
+            [0] => Not Available...
+        )
+
+    [6] => Array
+        (
+            [0] => 1360495025
+        )
+
+    [7] => Array
+        (
+            [0] => ivo://cbatiau/VOEvent#2013-02-10T11:56:47Z
+        )
+
+    [8] => Array
+        (
+            [0] => <entry>
+<title>CBAT</title>
+<id>ivo://cbatiau/VOEvent#2013-02-10T11:56:47Z</id>
+<author><name>Daniel W. E. Green</name></author>
+<link rel="alternate" type="text/html" href="http://skyalert.org/events/733082"/>
+<link rel="xml" type="text/xml" href="http://skyalert.org/event/xml/830570"/>
+<updated>2013-02-10T11:17:5.28000ZZ</updated>
+<published>2013-02-10T14:02:08Z</published>
+<voevent:RA>9.85696</voevent:RA>
+<voevent:Dec>40.62919</voevent:Dec>
+<voevent:positionalError>999.0</voevent:positionalError>
+<voevent:referenceURL/>
+<voevent:role>observation</voevent:role>
+</entry>
+        )
+
+    [9] => Array
+        (
+            [0] => 90c5a8bcff594df0a0c47452be9c3b94
+        )
+
+)
+
+
+
+
+
+
+array(5) {
+  ["name"]=>
+  string(21) "PNV J00392567+4037451"
+  ["ra"]=>
+  float(9.85696)
+  ["dec"]=>
+  float(40.62919)
+  ["msg_hashed_id"]=>
+  string(32) "90c5a8bcff594df0a0c47452be9c3b94"
+  ["feed_id"]=>
+  int(1)
+}
+
+
+Getting RSS feeds from Skyalert/CRTS: CRTS and SDSS Galaxy ...
+Getting RSS feeds from Skyalert/CRTS2: Bright CRTS2 ...
+3
+====================================
+
+Array
+(
+    [0] => Skyalert/CRTS2: Bright CRTS2
+    [1] => 2
+    [2] => 1361256489
+    [3] => Array
+        (
+            [0] => CRTS2 mag 19.8
+            [1] => CRTS2 mag 19.9
+        )
+
+    [4] => Array
+        (
+            [0] => http://skyalert.org/event/xml/864302
+            [1] => http://skyalert.org/event/xml/864301
+        )
+
+    [5] => Array
+        (
+            [0] => Not Available...
+            [1] => Not Available...
+        )
+
+    [6] => Array
+        (
+            [0] => 1361257766
+            [1] => 1361257693
+        )
+
+    [7] => Array
+        (
+            [0] => ivo://nvo.caltech/voeventnet/mlsot#1302191231184109977
+            [1] => ivo://nvo.caltech/voeventnet/mlsot#1302191231184116341
+        )
+
+    [8] => Array
+        (
+            [0] => <entry>
+<title>CRTS2 mag 19.8</title>
+<id>ivo://nvo.caltech/voeventnet/mlsot#1302191231184109977</id>
+<author><name>Andrew Drake (for the Catalina Real-time Transient Survey)</name></author>
+<link rel="alternate" type="text/html" href="http://skyalert.org/events/766469"/>
+<link rel="xml" type="text/xml" href="http://skyalert.org/event/xml/864302"/>
+<updated>2013-02-19T07:09:26Z</updated>
+<published>2013-02-18T23:02:23Z</published>
+<voevent:RA>137.38746</voevent:RA>
+<voevent:Dec>23.41789</voevent:Dec>
+<voevent:positionalError>0.0012</voevent:positionalError>
+<voevent:referenceURL>http://nesssi.cacr.caltech.edu/MLS/20130219/1302191231184109977.html</voevent:referenceURL>
+<voevent:role>observation</voevent:role>
+</entry>
+            [1] => <entry>
+<title>CRTS2 mag 19.9</title>
+<id>ivo://nvo.caltech/voeventnet/mlsot#1302191231184116341</id>
+<author><name>Andrew Drake (for the Catalina Real-time Transient Survey)</name></author>
+<link rel="alternate" type="text/html" href="http://skyalert.org/events/766468"/>
+<link rel="xml" type="text/xml" href="http://skyalert.org/event/xml/864301"/>
+<updated>2013-02-19T07:08:13Z</updated>
+<published>2013-02-18T23:02:10Z</published>
+<voevent:RA>137.23238</voevent:RA>
+<voevent:Dec>23.58066</voevent:Dec>
+<voevent:positionalError>0.0012</voevent:positionalError>
+<voevent:referenceURL>http://nesssi.cacr.caltech.edu/MLS/20130219/1302191231184116341.html</voevent:referenceURL>
+<voevent:role>observation</voevent:role>
+</entry>
+        )
+
+    [9] => Array
+        (
+            [0] => ada389096c8fb6ba0045da62a713193a
+            [1] => 7f42aff63578ccfd99b61e2879ed7e83
+        )
+
+)
+
+
+
+
+
+
+array(5) {
+  ["name"]=>
+  string(14) "CRTS2 mag 19.8"
+  ["ra"]=>
+  float(137.38746)
+  ["dec"]=>
+  float(23.41789)
+  ["msg_hashed_id"]=>
+  string(32) "ada389096c8fb6ba0045da62a713193a"
+  ["feed_id"]=>
+  int(3)
+}
+
+
+
+
+array(5) {
+  ["name"]=>
+  string(14) "CRTS2 mag 19.9"
+  ["ra"]=>
+  float(137.23238)
+  ["dec"]=>
+  float(23.58066)
+  ["msg_hashed_id"]=>
+  string(32) "7f42aff63578ccfd99b61e2879ed7e83"
+  ["feed_id"]=>
+  int(3)
+}
+
+
+Getting RSS feeds from Skyalert/CRTS: CRTS and P60 ...
+Getting RSS feeds from The Astronomer's Telegram: supernovae ...
+5
+====================================
+
+Array
+(
+    [0] => The Astronomer's Telegram: supernovae
+    [1] => 4
+    [2] => 1361281082
+    [3] => Array
+        (
+            [0] => ATel 4825: OGLE-IV Transient Search report 19.Feb 2013
+            [1] => ATel 4824: Correction to ATel 4823: KAIT Discovery and Robotic Follow-up Observations of a Young SN II in NGC 5669
+            [2] => ATel 4823: KAIT Discovery and Robotic Follow-up of a young SN Ia in NGC5669
+            [3] => ATel 4822: Spectroscopic Classification of PSN J14324449+0953123
+        )
+
+    [4] => Array
+        (
+            [0] => http://www.astronomerstelegram.org/?read=4825
+            [1] => http://www.astronomerstelegram.org/?read=4824
+            [2] => http://www.astronomerstelegram.org/?read=4823
+            [3] => http://www.astronomerstelegram.org/?read=4822
+        )
+
+    [5] => Array
+        (
+            [0] => The OGLE-IV Transient Search (Wyrzykowski et al. ATEL #4495, Kozlowski et al. 2013) reports the discovery of three on-going supernova candidates, near their peaks or on the rise, in the magnitude range 17.5-20 in the I-band. ...
+            [1] => This is a correction to the prior ATel #4823 due to the wrong classification in the title. We apologize for the confusion.   We report the discovery, with the 0.76-m Katzman Automatic Imaging Telescope (KAIT) at Lick Observatory, of a possible new supernova in the nearby galaxy NGC 5669. ...
+            [2] => We report the discovery, with the 0.76-m Katzman Automatic Imaging Telescope (KAIT) at Lick Observatory, of a possible new supernova in the nearby galaxy NGC 5669. ...
+            [3] => We report spectroscopic observation of PSN J14324449+0953123 (listed on the IAU Central Bureau's TOCP page). A spectrum (range 350-1000 nm) obtained robotically on Feb. ...
+        )
+
+    [6] => Array
+        (
+            [0] => 1361281082
+            [1] => 1361241789
+            [2] => 1361231261
+            [3] => 1361223408
+        )
+
+    [7] => Array
+        (
+            [0] => ATel4825
+            [1] => ATel4824
+            [2] => ATel4823
+            [3] => ATel4822
+        )
+
+    [8] => Array
+        (
+            [0] => <item rdf:about="http://www.astronomerstelegram.org/?read=4825">
+	<title> ATel 4825: OGLE-IV Transient Search report 19.Feb 2013 </title>
+	<link> http://www.astronomerstelegram.org/?read=4825 </link>
+	<creator> L. Wyrzykowski, A. Udalski, S. Kozlowski, G. Pietrzynski, on behalf of the OGLE team </creator>
+	<author> L. Wyrzykowski, A. Udalski, S. Kozlowski, G. Pietrzynski, on behalf of the OGLE team </author>
+	<creatoremail> lw@astrouw.edu.pl </creatoremail>
+	<provenance> Credentialed by: Lukasz Wyrzykowski (wyrzykow@ast.cam.ac.uk) </provenance>
+	<publisher> The Astronomer's Telegram  </publisher>
+	<identifier>ATel4825</identifier>
+	<description> The OGLE-IV Transient Search (Wyrzykowski et al. ATEL #4495, Kozlowski et al. 2013) reports the discovery of three on-going supernova candidates, near their peaks or on the rise, in the magnitude range 17.5-20 in the I-band. ... </description>
+	<dc:date>2013-02-19T13:38:02-00:00</dc:date></item>
+            [1] => <item rdf:about="http://www.astronomerstelegram.org/?read=4824">
+	<title> ATel 4824: Correction to ATel 4823: KAIT Discovery and Robotic Follow-up Observations of a Young SN II in NGC 5669 </title>
+	<link> http://www.astronomerstelegram.org/?read=4824 </link>
+	<creator> W. Zheng, P. Blanchard, S. B. Cenko, A. V. Filippenko, W. Li, and A. Cucchiara  </creator>
+	<author> W. Zheng, P. Blanchard, S. B. Cenko, A. V. Filippenko, W. Li, and A. Cucchiara  </author>
+	<creatoremail> zwk@umich.edu </creatoremail>
+	<provenance> Credentialed by: Weikang Zheng (zwk@umich.edu) </provenance>
+	<publisher> The Astronomer's Telegram  </publisher>
+	<identifier>ATel4824</identifier>
+	<description> This is a correction to the prior ATel #4823 due to the wrong classification in the title. We apologize for the confusion.   We report the discovery, with the 0.76-m Katzman Automatic Imaging Telescope (KAIT) at Lick Observatory, of a possible new supernova in the nearby galaxy NGC 5669. ... </description>
+	<dc:date>2013-02-19T02:43:09-00:00</dc:date></item>
+            [2] => <item rdf:about="http://www.astronomerstelegram.org/?read=4823">
+	<title> ATel 4823: KAIT Discovery and Robotic Follow-up of a young SN Ia in NGC5669 </title>
+	<link> http://www.astronomerstelegram.org/?read=4823 </link>
+	<creator> W. Zheng, P. Blanchard, S. B. Cenko, A. V. Filippenko  and A. Cucchiara  </creator>
+	<author> W. Zheng, P. Blanchard, S. B. Cenko, A. V. Filippenko  and A. Cucchiara  </author>
+	<creatoremail> zwk@umich.edu </creatoremail>
+	<provenance> Credentialed by: Weikang Zheng (zwk@umich.edu) </provenance>
+	<publisher> The Astronomer's Telegram  </publisher>
+	<identifier>ATel4823</identifier>
+	<description> We report the discovery, with the 0.76-m Katzman Automatic Imaging Telescope (KAIT) at Lick Observatory, of a possible new supernova in the nearby galaxy NGC 5669. ... </description>
+	<dc:date>2013-02-18T23:47:41-00:00</dc:date></item>
+            [3] => <item rdf:about="http://www.astronomerstelegram.org/?read=4822">
+	<title> ATel 4822: Spectroscopic Classification of PSN J14324449+0953123 </title>
+	<link> http://www.astronomerstelegram.org/?read=4822 </link>
+	<creator> S. Valenti, D. Sand, J. T. Parrent, M. L. Graham, D. A. Howell  </creator>
+	<author> S. Valenti, D. Sand, J. T. Parrent, M. L. Graham, D. A. Howell  </author>
+	<creatoremail> svalenti@lcogt.net </creatoremail>
+	<provenance> Credentialed by: Stefano Valenti (svalenti@lcogt.net) </provenance>
+	<publisher> The Astronomer's Telegram  </publisher>
+	<identifier>ATel4822</identifier>
+	<description> We report spectroscopic observation of PSN J14324449+0953123 (listed on the IAU Central Bureau's TOCP page). A spectrum (range 350-1000 nm) obtained robotically on Feb. ... </description>
+	<dc:date>2013-02-18T21:36:48-00:00</dc:date></item>
+        )
+
+    [9] => Array
+        (
+            [0] => 8ed3ccf76520bdd7b7bac6135a71820e
+            [1] => 054a55afef51d3c63fe9fca2b42b55e5
+            [2] => 2ee498f8aa4dbeda34e5363f14e20d2a
+            [3] => 33b5bbe10725b7974dc1658fc309e95b
+        )
+
+)
+
+
+
+
+
+
+array(5) {
+  ["name"]=>
+  NULL
+  ["ra"]=>
+  NULL
+  ["dec"]=>
+  NULL
+  ["msg_hashed_id"]=>
+  string(32) "8ed3ccf76520bdd7b7bac6135a71820e"
+  ["feed_id"]=>
+  int(5)
+}
+
+
+
+
+array(5) {
+  ["name"]=>
+  NULL
+  ["ra"]=>
+  NULL
+  ["dec"]=>
+  NULL
+  ["msg_hashed_id"]=>
+  string(32) "054a55afef51d3c63fe9fca2b42b55e5"
+  ["feed_id"]=>
+  int(5)
+}
+
+
+
+
+array(5) {
+  ["name"]=>
+  NULL
+  ["ra"]=>
+  NULL
+  ["dec"]=>
+  NULL
+  ["msg_hashed_id"]=>
+  string(32) "2ee498f8aa4dbeda34e5363f14e20d2a"
+  ["feed_id"]=>
+  int(5)
+}
+
+
+
+
+array(5) {
+  ["name"]=>
+  NULL
+  ["ra"]=>
+  NULL
+  ["dec"]=>
+  NULL
+  ["msg_hashed_id"]=>
+  string(32) "33b5bbe10725b7974dc1658fc309e95b"
+  ["feed_id"]=>
+  int(5)
+}
+
+
+Getting RSS feeds from CBET: Supernovae ...
+6
+====================================
+
+Array
+(
+    [0] => CBET: Supernovae
+    [1] => 1
+    [2] => 1361253601
+    [3] => Array
+        (
+            [0] => PSN J12211796+1130252 IN NGC 4294
+        )
+
+    [4] => Array
+        (
+            [0] => http://cbat.eps.harvard.edu/cbet/003400/CBET003419.txt
+        )
+
+    [5] => Array
+        (
+            [0] => Electronic Telegram No. 3419
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+PSN J12211796+1130252 IN NGC 4294
+     Alessandro Dimai, Cortina d'Ampezzo, Italy, reports the discovery of a
+variabl
+        )
+
+    [6] => Array
+        (
+            [0] => 1361253601
+        )
+
+    [7] => Array
+        (
+            [0] => http://cbat.eps.harvard.edu/cbet/003400/CBET003419.txt
+        )
+
+    [8] => Array
+        (
+            [0] => <entry>
+<title>PSN J12211796+1130252 IN NGC 4294</title>
+<category term="SUPERNOVA"/>
+<link href="http://cbat.eps.harvard.edu/cbet/003400/CBET003419.txt"/>
+<id>http://cbat.eps.harvard.edu/cbet/003400/CBET003419.txt</id>
+<author>
+  <name>Daniel W. E. Green</name>
+</author>
+<updated>2013-02-19T06:00:01.276Z</updated>
+<content type="html">
+&lt;pre&gt;
+                                                  Electronic Telegram No. 3419
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+PSN J12211796+1130252 IN NGC 4294
+     Alessandro Dimai, Cortina d'Ampezzo, Italy, reports the discovery of a
+variable star (mag 16.4) in four images taken on Feb. 8.116 UT with a 0.28-m
+f/6.3 telescope at the Col Drusci Observatory; the new object is located at
+R.A. = 12h21m17s.96, Decl. = +11d30'25".2 (equinox 2000.0), which is 11"
+south and slightly east of the center of NGC 4294 (and within 2" of a blue
+stellar association that is visible in blue Palomar Sky Survey plates.  Dimai
+posted an image of PSN J12211796+1130252 at the following website URL:
+http://www.cortinastelle.it/T21-adimai-ngc4294-20130211_123144UT.jpg.  The
+variable was designated PSN J12211796+1130252 when it was posted at the
+Central Bureau's TOCP webpage.  Additional CCD magnitudes for PSN
+J12211796+1130252:  Feb. 14.179, 17.9 (Federica Luppi and Luca Buzzi, Varese,
+Italy; 0.38-m f/6.8 reflector; unfiltered image; position end figures 17s.83,
+27".7; reference stars from CMC-14 catalogue; a source is visible in Digitized
+Sky Survey images at position end figures 17s.80, 27".4; image posted at
+website URL http://www.astrogeo.va.it/pub/TOCP/PSN_N4294.jpg); 16.095, R_c =
+17.5 (Massimiliano Martignoni, Magnago, Italy; 0.25-m f/10 reflector;
+position end figures 17s.80, 26".4).
+
+     L. Tomasella, P. Ochner, S. Benetti, A. Pastorello, E. Cappellaro, L.
+Bedin, M. Turatto, S. Spiro, and L. Tartaglia, Osservatorio Astronomico di
+Padova, Istituto Nazionale di Astrofisica (INAF); A. Harutyunyan, Telescopio
+Nazionale Galileo (TNG); A. Dimai, Cortina d'Ampezzo, Italy, on behalf of
+the Italian Supernovae Search Project; M. T. Botticella, Osservatorio
+Astronomico di Capodimonte, INAF; G. Pignata and F. Bufano, Universidad
+Andres Bello; S. Valenti, University of California at Santa Barbara and Las
+Cumbres Observatory Global Telescope; and N. Elias-Rosa, Institut de Ciencies
+de L'Espai, CSIC-IEEC, Barcelona) report that optical spectroscopy of PSN
+J12211796+1130252, obtained on Feb. 14.93 UT with the Asiago 1.82-m Copernico
+Telescope (+ AFOSC; range 340-820 nm; resolution 1.3 nm) and on Feb. 15.11
+with the TNG (+ Dolores; range 320-800 nm; resolution 1.4 nm), shows a blue
+continuum (T_bb = 15300 K) with superimposed, narrow, unresolved (FWHM &lt; 600
+km/s) emission lines of H, [O II], [O III], [N II], and [S II].  However,
+they cannot disentangle the intrinsic transient contribution to line
+emissions because of the heavy contamination from nearby H II regions.  From
+the observed wavelength of the H_alpha and H_beta peaks, they derive a
+redshift, z, around 0.0012, which coincides with that given for the host
+galaxy, NGC 4294 (Brian et al. 2008, A.J. 136, 713; via NED).  The spectra,
+together with the faint peak absolute magnitude of the transient (about -14;
+assuming a distance modulus m-M = 31.13, from the Extragalactic Distance
+Database, Tully et al. 2009, A.J. 138, 323), suggest that PSN
+J12211796+1130252 is a supernova imposter, likely a major eruption of a
+luminous blue variable.  Long-term photometric monitoring has been activated.
+The Asiago classification spectra are posted at the following website URL:
+http://graspa.oapd.inaf.it.
+
+
+NOTE: These 'Central Bureau Electronic Telegrams' are sometimes
+      superseded by text appearing later in the printed IAU Circulars.
+
+                         (C) Copyright 2013 CBAT
+2013 February 19                 (CBET 3419)              Daniel W. E. Green
+
+
+&lt;/pre&gt;
+</content>
+</entry>
+        )
+
+    [9] => Array
+        (
+            [0] => 023bfb5d1f6ea3ef3b733e3a5b7c800d
+        )
+
+)
+
+
+
+
+
+
+array(5) {
+  ["name"]=>
+  string(33) "PSN J12211796+1130252 IN NGC 4294"
+  ["ra"]=>
+  float(185.32483333333)
+  ["dec"]=>
+  float(11.507)
+  ["msg_hashed_id"]=>
+  string(32) "023bfb5d1f6ea3ef3b733e3a5b7c800d"
+  ["feed_id"]=>
+  int(6)
+}
+
+
+
+Finished getting RSS feeds from 6 feed sources.
+

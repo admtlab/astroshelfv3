@@ -1,0 +1,81 @@
+[
+	[
+	{"_Name": "2012cg", "_RA": 186.8042, "_Dec": 9.4203, "_Type": "Ia", "_Redshift": 0.001, "_Mag": 16.9, "_B-Peak": "2012-04-01", "_Priority": 0.4},
+	{"_obsDuration": 41, "_obsGap": 2, "_obsTimes": 5}
+	],
+	
+	[
+	{"_Name": "2013cs", "_RA": 198.8125, "_Dec": -17.9656, "_Type": "Ia", "_Redshift": 0.009, "_Mag": 14.7, "_B-Peak": "2013-05-24", "_Priority": 0.25},
+	{"_obsDuration": 27, "_obsGap": 1, "_obsTimes": 4}
+	],
+	
+	[
+	{"_Name": "2013da", "_RA": 206.4000, "_Dec": -7.3256, "_Type": "Ia", "_Redshift": 0.021, "_Mag": 16.5, "_B-Peak": "2013-06-06", "_Priority": 0.2},
+	{"_obsDuration": 27, "_obsGap": 3, "_obsTimes": 2}
+	],
+	
+	[
+	{"_Name": "2013bs", "_RA": 259.3417, "_Dec": 41.0667, "_Type": "Ia", "_Redshift": 0.027, "_Mag": 17.0, "_B-Peak": "2013-04-21", "_Priority": 0.7},
+	{"_obsDuration": 38, "_obsGap": 1, "_obsTimes": 7}
+	],
+	
+	[
+	{"_Name": "PTF13asv", "_RA": 245.6792, "_Dec": 18.9597, "_Type": "Ia", "_Redshift": 0.035, "_Mag": 19.0, "_B-Peak": "2013-05-11", "_Priority": 0.65},
+	{"_obsDuration": 50, "_obsGap": 1, "_obsTimes": 4}
+	],
+	
+	[
+	{"_Name": "2013bo", "_RA": 199.3708, "_Dec": 42.7417, "_Type": "Ia", "_Redshift": 0.036, "_Mag": 17.6, "_B-Peak": "2013-04-11", "_Priority": 0.85},
+	{"_obsDuration": 35, "_obsGap": 2, "_obsTimes": 4}
+	],
+	
+	[
+	{"_Name": "2013bt", "_RA": 215.3125, "_Dec": 61.5711, "_Type": "Ia", "_Redshift": 0.036, "_Mag": 18.0, "_B-Peak": "2013-04-26", "_Priority": 0.9},
+	{"_obsDuration": 32, "_obsGap": 1, "_obsTimes": 5}
+	],
+
+	[
+	{"_Name": "SNhunt175", "_RA": 229.8521, "_Dec": 20.8900, "_Type": "Ia", "_Redshift": 0.0409, "_Mag": 17.8, "_B-Peak": "2013-03-18", "_Priority": 0.85},
+	{"_obsDuration": 43, "_obsGap": 1, "_obsTimes": 3}
+	],
+	
+	[
+	{"_Name": "2013ck", "_RA": 231.1208, "_Dec": 48.5486, "_Type": "Ia", "_Redshift": 0.049, "_Mag": 17.5, "_B-Peak": "2013-05-12", "_Priority": 0.35},
+	{"_obsDuration": 58, "_obsGap": 2, "_obsTimes": 4}
+	],
+	
+	[
+	{"_Name": "CSS130218:092354+385837", "_RA": 140.97301, "_Dec": 38.97688, "_Type": "Ia", "_Redshift": 0.050, "_Mag": 18.5, "_B-Peak": "2013-03-10", "_Priority": 0.75},
+	{"_obsDuration": 30, "_obsGap": 1, "_obsTimes": 3}
+	],
+	
+	[
+	{"_Name": "PTF13ayw", "_RA": 234.8917, "_Dec": 32.0939, "_Type": "Ia", "_Redshift": 0.053, "_Mag": 18.6, "_B-Peak": "2013-05-18", "_Priority": 0.45},
+	{"_obsDuration": 53, "_obsGap": 1, "_obsTimes": 4}
+	],
+	
+	[
+	{"_Name": "2013cb", "_RA": 168.7583, "_Dec": 16.1214, "_Type": "Ia", "_Redshift": 0.054, "_Mag": 18.1, "_B-Peak": "2013-05-12", "_Priority": 0.5},
+	{"_obsDuration": 47, "_obsGap": 1, "_obsTimes": 3}
+	],
+	
+	[
+	{"_Name": "2013bq", "_RA": 196.0333, "_Dec": 43.9022, "_Type": "Ia", "_Redshift": 0.060, "_Mag": 18.3, "_B-Peak": "2013-04-24", "_Priority": 0.92},
+	{"_obsDuration": 50, "_obsGap": 3, "_obsTimes": 4}
+	],
+	
+	[
+	{"_Name": "2013ar", "_RA": 129.4375, "_Dec": 49.4756, "_Type": "Ia", "_Redshift": 0.060, "_Mag": 18.9, "_B-Peak": "2013-03-23", "_Priority": 0.95},
+	{"_obsDuration": 65, "_obsGap": 1, "_obsTimes": 3}
+	],
+	
+	[
+	{"_Name": "2013be", "_RA": 189.1167, "_Dec": 11.7578, "_Type": "Ia", "_Redshift": 0.065, "_Mag": 19.6, "_B-Peak": "2013-04-16", "_Priority": 0.65},
+	{"_obsDuration": 77, "_obsGap": 2, "_obsTimes": 3}
+	],
+	
+	[
+	{"_Name": "CSS130317:082848+293031", "_RA": 127.19910, "_Dec": 29.50857, "_Type": "Ia", "_Redshift": 0.080, "_Mag": 18.2, "_B-Peak": "2013-03-19", "_Priority": 0.75},
+	{"_obsDuration": 82, "_obsGap": 1, "_obsTimes": 3}
+	]
+]

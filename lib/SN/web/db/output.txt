@@ -1,0 +1,4116 @@
+array(121) {
+  [0]=>
+  array(6) {
+    ["name"]=>
+    string(40) "SUPERNOVA 2013ac = PSN J09454879+5840073"
+    ["ra"]=>
+    string(10) "146.286625"
+    ["dec"]=>
+    string(15) "58.668694444444"
+    ["timestamp"]=>
+    string(19) "2013-02-23 14:30:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(40) "SUPERNOVA 2013ac = PSN J09454879+5840073"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003400/CBET003424.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3424
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013ac = PSN J09454879+5840073
+     Tianmeng Zhang and Xu Zhou, National Astronomical Observatories of Chin"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [1]=>
+  array(6) {
+    ["name"]=>
+    string(52) "SUPERNOVA 2013ab IN NGC 5669 = PSN J14324449+0953123"
+    ["ra"]=>
+    string(9) "68.185375"
+    ["dec"]=>
+    string(7) "9.88675"
+    ["timestamp"]=>
+    string(19) "2013-02-20 14:30:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(52) "SUPERNOVA 2013ab IN NGC 5669 = PSN J14324449+0953123"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003400/CBET003422.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3422
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013ab IN NGC 5669 = PSN J14324449+0953123
+     [Editor's note:  this text replaces that on CBET 3421.]
+   "
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [2]=>
+  array(6) {
+    ["name"]=>
+    string(52) "SUPERNOVA 2013ab IN NGC 5669 = PSN J14324449+0953123"
+    ["ra"]=>
+    string(9) "68.185375"
+    ["dec"]=>
+    string(7) "9.88675"
+    ["timestamp"]=>
+    string(19) "2013-02-20 02:00:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(52) "SUPERNOVA 2013ab IN NGC 5669 = PSN J14324449+0953123"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003400/CBET003421.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3421
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013ab IN NGC 5669 = PSN J14324449+0953123
+     Further to CBET 3302, P. Blanchard, W. Zheng, S. B. Cenko, "
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [3]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.8"
+    ["ra"]=>
+    string(9) "137.38746"
+    ["dec"]=>
+    string(8) "23.41789"
+    ["timestamp"]=>
+    string(19) "2013-02-19 02:09:26"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.8"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/864302"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [4]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.9"
+    ["ra"]=>
+    string(9) "137.23238"
+    ["dec"]=>
+    string(8) "23.58066"
+    ["timestamp"]=>
+    string(19) "2013-02-19 02:08:13"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.9"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/864301"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [5]=>
+  array(6) {
+    ["name"]=>
+    string(33) "PSN J12211796+1130252 IN NGC 4294"
+    ["ra"]=>
+    string(15) "185.32483333333"
+    ["dec"]=>
+    string(6) "11.507"
+    ["timestamp"]=>
+    string(19) "2013-02-19 01:00:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(33) "PSN J12211796+1130252 IN NGC 4294"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003400/CBET003419.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3419
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+PSN J12211796+1130252 IN NGC 4294
+     Alessandro Dimai, Cortina d'Ampezzo, Italy, reports the discovery of a
+variabl"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [6]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 13.6"
+    ["ra"]=>
+    string(9) "223.89604"
+    ["dec"]=>
+    string(9) "-15.56776"
+    ["timestamp"]=>
+    string(19) "2013-02-18 07:30:09"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 13.6"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/864019"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [7]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.3"
+    ["ra"]=>
+    string(9) "223.96578"
+    ["dec"]=>
+    string(9) "-16.01322"
+    ["timestamp"]=>
+    string(19) "2013-02-18 07:29:55"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.3"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/864018"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [8]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 16.9"
+    ["ra"]=>
+    string(9) "203.24077"
+    ["dec"]=>
+    string(9) "-10.02991"
+    ["timestamp"]=>
+    string(19) "2013-02-18 06:16:51"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 16.9"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/863980"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [9]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.8"
+    ["ra"]=>
+    string(9) "110.74463"
+    ["dec"]=>
+    string(8) "18.07262"
+    ["timestamp"]=>
+    string(19) "2013-02-17 23:24:58"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.8"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/863772"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [10]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.2"
+    ["ra"]=>
+    string(9) "110.89719"
+    ["dec"]=>
+    string(8) "17.59751"
+    ["timestamp"]=>
+    string(19) "2013-02-17 23:24:02"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.2"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/863770"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [11]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.0"
+    ["ra"]=>
+    string(9) "110.81264"
+    ["dec"]=>
+    string(8) "25.91484"
+    ["timestamp"]=>
+    string(19) "2013-02-17 22:56:49"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.0"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/863760"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [12]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 18.2"
+    ["ra"]=>
+    string(9) "109.75215"
+    ["dec"]=>
+    string(8) "25.51025"
+    ["timestamp"]=>
+    string(19) "2013-02-17 22:56:31"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 18.2"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/863759"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [13]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.1"
+    ["ra"]=>
+    string(9) "108.43609"
+    ["dec"]=>
+    string(8) "24.95749"
+    ["timestamp"]=>
+    string(19) "2013-02-17 22:55:05"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.1"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/863755"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [14]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.4"
+    ["ra"]=>
+    string(9) "107.45894"
+    ["dec"]=>
+    string(8) "23.88125"
+    ["timestamp"]=>
+    string(19) "2013-02-17 22:51:47"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.4"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/863750"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [15]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 18.5"
+    ["ra"]=>
+    string(9) "109.72547"
+    ["dec"]=>
+    string(8) "24.70441"
+    ["timestamp"]=>
+    string(19) "2013-02-17 22:45:34"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 18.5"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/863745"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [16]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 14.6"
+    ["ra"]=>
+    string(9) "241.92429"
+    ["dec"]=>
+    string(8) "-3.18211"
+    ["timestamp"]=>
+    string(19) "2013-02-17 08:02:51"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 14.6"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/862012"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [17]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.9"
+    ["ra"]=>
+    string(9) "197.60695"
+    ["dec"]=>
+    string(9) "-10.03554"
+    ["timestamp"]=>
+    string(19) "2013-02-17 07:25:13"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.9"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/861698"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [18]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.6"
+    ["ra"]=>
+    string(8) "200.3907"
+    ["dec"]=>
+    string(8) "-7.93231"
+    ["timestamp"]=>
+    string(19) "2013-02-17 07:20:16"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.6"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/861682"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [19]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 17.1"
+    ["ra"]=>
+    string(9) "152.20762"
+    ["dec"]=>
+    string(8) "20.15573"
+    ["timestamp"]=>
+    string(19) "2013-02-17 05:46:42"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 17.1"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/861627"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [20]=>
+  array(6) {
+    ["name"]=>
+    string(52) "SUPERNOVA 2013aa IN NGC 5643 = PSN J14323388-4413278"
+    ["ra"]=>
+    string(15) "218.14116666667"
+    ["dec"]=>
+    string(16) "-44.224388888889"
+    ["timestamp"]=>
+    string(19) "2013-02-16 19:00:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(52) "SUPERNOVA 2013aa IN NGC 5643 = PSN J14323388-4413278"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003400/CBET003416.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3416
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013aa IN NGC 5643 = PSN J14323388-4413278
+     Stuart Parker, Canterbury, New Zealand, reports the discove"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [21]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 13.0"
+    ["ra"]=>
+    string(9) "208.45437"
+    ["dec"]=>
+    string(8) "-7.64723"
+    ["timestamp"]=>
+    string(19) "2013-02-16 07:48:28"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 13.0"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/858088"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [22]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.4"
+    ["ra"]=>
+    string(9) "154.61101"
+    ["dec"]=>
+    string(8) "15.23674"
+    ["timestamp"]=>
+    string(19) "2013-02-16 05:52:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.4"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/858033"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [23]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.7"
+    ["ra"]=>
+    string(9) "152.42652"
+    ["dec"]=>
+    string(6) "6.1424"
+    ["timestamp"]=>
+    string(19) "2013-02-16 05:10:19"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.7"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/858015"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [24]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 13.2"
+    ["ra"]=>
+    string(9) "153.90089"
+    ["dec"]=>
+    string(7) "8.42114"
+    ["timestamp"]=>
+    string(19) "2013-02-16 05:00:02"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 13.2"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/857969"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [25]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.9"
+    ["ra"]=>
+    string(9) "148.33125"
+    ["dec"]=>
+    string(8) "16.34347"
+    ["timestamp"]=>
+    string(19) "2013-02-16 01:37:40"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.9"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/856946"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [26]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 18.8"
+    ["ra"]=>
+    string(9) "148.69962"
+    ["dec"]=>
+    string(8) "17.28412"
+    ["timestamp"]=>
+    string(19) "2013-02-16 01:37:22"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 18.8"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/856942"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [27]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.8"
+    ["ra"]=>
+    string(9) "147.48123"
+    ["dec"]=>
+    string(8) "17.19758"
+    ["timestamp"]=>
+    string(19) "2013-02-16 01:37:20"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.8"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/856943"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [28]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.5"
+    ["ra"]=>
+    string(9) "148.63649"
+    ["dec"]=>
+    string(8) "17.29119"
+    ["timestamp"]=>
+    string(19) "2013-02-16 01:36:02"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.5"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/856939"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [29]=>
+  array(6) {
+    ["name"]=>
+    string(39) "SUPERNOVA 2013Z = PSN J13275489+3022294"
+    ["ra"]=>
+    string(15) "201.97870833333"
+    ["dec"]=>
+    string(15) "30.374833333333"
+    ["timestamp"]=>
+    string(19) "2013-02-16 01:30:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(39) "SUPERNOVA 2013Z = PSN J13275489+3022294"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003400/CBET003415.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3415
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013Z = PSN J13275489+3022294
+     Tianmeng Zhang and Xu Zhou, National Astronomical Observatories of China"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [30]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.5"
+    ["ra"]=>
+    string(6) "125.25"
+    ["dec"]=>
+    string(8) "14.30938"
+    ["timestamp"]=>
+    string(19) "2013-02-16 00:17:30"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.5"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/856910"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [31]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 17.4"
+    ["ra"]=>
+    string(9) "144.97142"
+    ["dec"]=>
+    string(8) "16.92117"
+    ["timestamp"]=>
+    string(19) "2013-02-15 01:09:15"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 17.4"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/853889"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [32]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 13.2"
+    ["ra"]=>
+    string(9) "141.47146"
+    ["dec"]=>
+    string(8) "18.38222"
+    ["timestamp"]=>
+    string(19) "2013-02-15 00:17:35"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 13.2"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/853794"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [33]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.4"
+    ["ra"]=>
+    string(9) "166.83055"
+    ["dec"]=>
+    string(8) "12.84802"
+    ["timestamp"]=>
+    string(19) "2013-02-14 07:04:46"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.4"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/851220"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [34]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 18.9"
+    ["ra"]=>
+    string(9) "161.18247"
+    ["dec"]=>
+    string(8) "12.00945"
+    ["timestamp"]=>
+    string(19) "2013-02-14 05:00:18"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 18.9"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/850620"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [35]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 13.0"
+    ["ra"]=>
+    string(9) "135.25009"
+    ["dec"]=>
+    string(8) "16.56742"
+    ["timestamp"]=>
+    string(19) "2013-02-14 00:35:37"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 13.0"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/849707"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [36]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 18.8"
+    ["ra"]=>
+    string(9) "110.14304"
+    ["dec"]=>
+    string(8) "23.73269"
+    ["timestamp"]=>
+    string(19) "2013-02-13 23:14:50"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 18.8"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/849179"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [37]=>
+  array(6) {
+    ["name"]=>
+    string(15) "SUPERNOVA 2013Y"
+    ["ra"]=>
+    string(15) "182.41541666667"
+    ["dec"]=>
+    string(15) "16.203972222222"
+    ["timestamp"]=>
+    string(19) "2013-02-13 12:00:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(15) "SUPERNOVA 2013Y"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003400/CBET003414.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3414
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013Y
+     Tomoki Morokuma, Institute of Astronomy, University of Tokyo; Rina
+Okamoto, Takashi Horiuchi, an"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [38]=>
+  array(6) {
+    ["name"]=>
+    string(52) "SUPERNOVA 2013U IN PGC 29001 = PSN J10011200+0019423"
+    ["ra"]=>
+    string(5) "150.3"
+    ["dec"]=>
+    string(16) "0.32841666666667"
+    ["timestamp"]=>
+    string(19) "2013-02-10 18:01:09"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(52) "SUPERNOVA 2013U IN PGC 29001 = PSN J10011200+0019423"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003400/CBET003410.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3410
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013U IN PGC 29001 = PSN J10011200+0019423
+     R. Gagliano, J. Newton, and T. Puckett report the discovery"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [39]=>
+  array(6) {
+    ["name"]=>
+    string(51) "SUPERNOVA 2013T IN UGC 8250 = PSN J13101968+3228257"
+    ["ra"]=>
+    string(6) "47.582"
+    ["dec"]=>
+    string(15) "32.473805555556"
+    ["timestamp"]=>
+    string(19) "2013-02-10 18:01:09"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(51) "SUPERNOVA 2013T IN UGC 8250 = PSN J13101968+3228257"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003400/CBET003407.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3407
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013T IN UGC 8250 = PSN J13101968+3228257
+     [Editor's note:  this text replaces that on CBET 3405 (desig"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [40]=>
+  array(6) {
+    ["name"]=>
+    string(51) "SUPERNOVA 2013Q IN NGC 7753 = PSN J23470787+2929115"
+    ["ra"]=>
+    string(15) "356.78279166667"
+    ["dec"]=>
+    string(15) "29.486527777778"
+    ["timestamp"]=>
+    string(19) "2013-02-10 18:01:08"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(51) "SUPERNOVA 2013Q IN NGC 7753 = PSN J23470787+2929115"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003400/CBET003401.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3401
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013Q IN NGC 7753 = PSN J23470787+2929115
+     [Editor's note:  this text replaces that on CBET 3400 (offse"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [41]=>
+  array(6) {
+    ["name"]=>
+    string(15) "SUPERNOVA 2013R"
+    ["ra"]=>
+    string(15) "142.89633333333"
+    ["dec"]=>
+    string(15) "35.395111111111"
+    ["timestamp"]=>
+    string(19) "2013-02-10 18:01:08"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(15) "SUPERNOVA 2013R"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003400/CBET003403.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3403
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013R
+     V. Lipunov communicates the discovery by Sergey Shurpakov and the MASTER
+team of a possible supe"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [42]=>
+  array(6) {
+    ["name"]=>
+    string(39) "SUPERNOVA 2013S = PSN J03353029+3816597"
+    ["ra"]=>
+    string(15) "53.876208333333"
+    ["dec"]=>
+    string(15) "38.283138888889"
+    ["timestamp"]=>
+    string(19) "2013-02-10 18:01:08"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(39) "SUPERNOVA 2013S = PSN J03353029+3816597"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003400/CBET003406.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3406
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013S = PSN J03353029+3816597
+     Li Zhou, Xiaofeng Wang, and Juncheng Chen, Tsinghua University (THU);
+an"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [43]=>
+  array(6) {
+    ["name"]=>
+    string(51) "SUPERNOVA 2013R IN UGC 8250 = PSN J13101968+3228257"
+    ["ra"]=>
+    string(6) "47.582"
+    ["dec"]=>
+    string(15) "32.473805555556"
+    ["timestamp"]=>
+    string(19) "2013-02-10 18:01:08"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(51) "SUPERNOVA 2013R IN UGC 8250 = PSN J13101968+3228257"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003400/CBET003405.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3405
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013R IN UGC 8250 = PSN J13101968+3228257
+     S. Howerton, Arkansas City, KS, U.S.A.; A. J. Drake, S. G. D"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [44]=>
+  array(6) {
+    ["name"]=>
+    string(51) "SUPERNOVA 2013Q IN NGC 7753 = PSN J23470787+2929115"
+    ["ra"]=>
+    string(15) "356.78279166667"
+    ["dec"]=>
+    string(15) "29.486527777778"
+    ["timestamp"]=>
+    string(19) "2013-02-10 18:01:08"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(51) "SUPERNOVA 2013Q IN NGC 7753 = PSN J23470787+2929115"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003400/CBET003400.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3400
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013Q IN NGC 7753 = PSN J23470787+2929115
+     Zhijian Xu, Nanjing, Jiangsu, China; and Xing Gao, Urumqi, X"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [45]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PNV J00392567+4037451"
+    ["ra"]=>
+    string(7) "9.85696"
+    ["dec"]=>
+    string(8) "40.62919"
+    ["timestamp"]=>
+    string(19) "2013-02-10 06:17:05"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/830570"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [46]=>
+  array(6) {
+    ["name"]=>
+    string(21) "TCP J15375685-2440136"
+    ["ra"]=>
+    string(9) "234.48687"
+    ["dec"]=>
+    string(9) "-24.67044"
+    ["timestamp"]=>
+    string(19) "2013-02-08 13:42:46"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/823071"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [47]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 18.6"
+    ["ra"]=>
+    string(8) "31.83201"
+    ["dec"]=>
+    string(8) "11.19924"
+    ["timestamp"]=>
+    string(19) "2013-02-07 22:51:55"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 18.6"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/815187"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [48]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.6"
+    ["ra"]=>
+    string(8) "29.71896"
+    ["dec"]=>
+    string(8) "11.96237"
+    ["timestamp"]=>
+    string(19) "2013-02-07 22:17:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.6"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/814439"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [49]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 18.4"
+    ["ra"]=>
+    string(6) "28.723"
+    ["dec"]=>
+    string(7) "9.25394"
+    ["timestamp"]=>
+    string(19) "2013-02-07 21:45:30"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 18.4"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/814427"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [50]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 18.8"
+    ["ra"]=>
+    string(8) "54.75353"
+    ["dec"]=>
+    string(7) "23.7895"
+    ["timestamp"]=>
+    string(19) "2013-02-06 00:02:42"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 18.8"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/801593"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [51]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.4"
+    ["ra"]=>
+    string(8) "11.00677"
+    ["dec"]=>
+    string(7) "5.91362"
+    ["timestamp"]=>
+    string(19) "2013-02-05 21:45:21"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.4"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/801347"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [52]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.5"
+    ["ra"]=>
+    string(8) "12.01287"
+    ["dec"]=>
+    string(7) "4.16449"
+    ["timestamp"]=>
+    string(19) "2013-02-05 21:43:54"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.5"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/801345"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [53]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 18.0"
+    ["ra"]=>
+    string(9) "229.70532"
+    ["dec"]=>
+    string(9) "-18.30681"
+    ["timestamp"]=>
+    string(19) "2013-02-05 08:00:45"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 18.0"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/797592"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [54]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.1"
+    ["ra"]=>
+    string(9) "228.75118"
+    ["dec"]=>
+    string(9) "-17.56769"
+    ["timestamp"]=>
+    string(19) "2013-02-05 08:00:13"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.1"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/797587"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [55]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 13.6"
+    ["ra"]=>
+    string(8) "73.43057"
+    ["dec"]=>
+    string(8) "23.62414"
+    ["timestamp"]=>
+    string(19) "2013-02-04 23:47:59"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 13.6"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/794939"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [56]=>
+  array(6) {
+    ["name"]=>
+    string(56) "SUPERNOVA 2013P IN MCG +05-22-20 = PSN J09133717+2959587"
+    ["ra"]=>
+    string(10) "138.404875"
+    ["dec"]=>
+    string(15) "29.999638888889"
+    ["timestamp"]=>
+    string(19) "2013-02-04 16:00:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(56) "SUPERNOVA 2013P IN MCG +05-22-20 = PSN J09133717+2959587"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003300/CBET003399.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3399
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013P IN MCG +05-22-20 = PSN J09133717+2959587
+     S. Howerton, Arkansas City, KS, U.S.A.; A. J. Drake, S."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [57]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PNV J23080471+6046521"
+    ["ra"]=>
+    string(9) "347.01963"
+    ["dec"]=>
+    string(8) "60.78114"
+    ["timestamp"]=>
+    string(19) "2013-02-02 04:53:08"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/783014"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [58]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 18.8"
+    ["ra"]=>
+    string(9) "136.77173"
+    ["dec"]=>
+    string(8) "11.84225"
+    ["timestamp"]=>
+    string(19) "2013-02-02 04:52:59"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 18.8"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/777868"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [59]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.9"
+    ["ra"]=>
+    string(9) "139.57016"
+    ["dec"]=>
+    string(8) "16.57584"
+    ["timestamp"]=>
+    string(19) "2013-02-02 02:28:36"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.9"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/777830"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [60]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.9"
+    ["ra"]=>
+    string(9) "134.17008"
+    ["dec"]=>
+    string(8) "13.24213"
+    ["timestamp"]=>
+    string(19) "2013-02-02 01:41:26"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.9"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/777402"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [61]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.4"
+    ["ra"]=>
+    string(9) "118.42865"
+    ["dec"]=>
+    string(8) "16.83736"
+    ["timestamp"]=>
+    string(19) "2013-02-02 00:35:49"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.4"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/777033"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [62]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.7"
+    ["ra"]=>
+    string(6) "5.6154"
+    ["dec"]=>
+    string(8) "13.97117"
+    ["timestamp"]=>
+    string(19) "2013-02-01 22:12:05"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.7"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/776986"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [63]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 18.5"
+    ["ra"]=>
+    string(7) "5.72175"
+    ["dec"]=>
+    string(8) "13.67799"
+    ["timestamp"]=>
+    string(19) "2013-02-01 22:11:41"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 18.5"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/776984"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [64]=>
+  array(6) {
+    ["name"]=>
+    string(39) "SUPERNOVA 2013O = PSN J08520598+5236062"
+    ["ra"]=>
+    string(15) "133.02491666667"
+    ["dec"]=>
+    string(15) "52.601722222222"
+    ["timestamp"]=>
+    string(19) "2013-02-01 20:30:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(39) "SUPERNOVA 2013O = PSN J08520598+5236062"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003300/CBET003395.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3395
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013O = PSN J08520598+5236062
+     Tianmeng Zhang and Xu Zhou, National Astronomical Observatories of China"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [65]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 19.7"
+    ["ra"]=>
+    string(9) "120.22371"
+    ["dec"]=>
+    string(8) "17.05532"
+    ["timestamp"]=>
+    string(19) "2013-02-01 02:34:25"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 19.7"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/774161"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [66]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 15.8"
+    ["ra"]=>
+    string(8) "63.62724"
+    ["dec"]=>
+    string(8) "28.08729"
+    ["timestamp"]=>
+    string(19) "2013-02-01 00:09:54"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 15.8"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/773732"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [67]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 18.9"
+    ["ra"]=>
+    string(8) "66.60102"
+    ["dec"]=>
+    string(7) "20.0134"
+    ["timestamp"]=>
+    string(19) "2013-01-31 23:54:55"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 18.9"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/773725"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [68]=>
+  array(6) {
+    ["name"]=>
+    string(14) "CRTS2 mag 13.3"
+    ["ra"]=>
+    string(8) "66.92742"
+    ["dec"]=>
+    string(7) "20.5509"
+    ["timestamp"]=>
+    string(19) "2013-01-31 23:54:40"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(14) "CRTS2 mag 13.3"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/773724"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(28) "Skyalert/CRTS2: Bright CRTS2"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/149/"
+      ["description"]=>
+      string(145) "Skyalert/CRTS2: Bright CRTS2. http://www.skyalert.org/. From rule 149, trigger CRTS2["First Detection params"]["magnitude"] < 20.0. Bright CRTS2."
+    }
+  }
+  [69]=>
+  array(6) {
+    ["name"]=>
+    string(39) "SUPERNOVA 2013N = PSN J11500413+2116460"
+    ["ra"]=>
+    string(15) "177.51720833333"
+    ["dec"]=>
+    string(15) "21.279444444444"
+    ["timestamp"]=>
+    string(19) "2013-01-28 21:00:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(39) "SUPERNOVA 2013N = PSN J11500413+2116460"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003300/CBET003394.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3394
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013N = PSN J11500413+2116460
+     Li Zhou, Xiaofeng Wang, and Juncheng Chen, Tsinghua University (THU),
+Ch"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [70]=>
+  array(6) {
+    ["name"]=>
+    string(54) "SUPERNOVA 2013M IN ESO 325-G43 = PSN J13595668-3751494"
+    ["ra"]=>
+    string(15) "209.98616666667"
+    ["dec"]=>
+    string(16) "-37.863722222222"
+    ["timestamp"]=>
+    string(19) "2013-01-28 18:30:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(54) "SUPERNOVA 2013M IN ESO 325-G43 = PSN J13595668-3751494"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003300/CBET003393.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3393
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013M IN ESO 325-G43 = PSN J13595668-3751494
+     Stuart Parker, Canterbury, New Zealand, reports the disco"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [71]=>
+  array(6) {
+    ["name"]=>
+    string(53) "SUPERNOVA 2013L IN ESO 216-39 = PSN J11452955-5035531"
+    ["ra"]=>
+    string(10) "176.373125"
+    ["dec"]=>
+    string(16) "-50.598083333333"
+    ["timestamp"]=>
+    string(19) "2013-01-28 16:30:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(53) "SUPERNOVA 2013L IN ESO 216-39 = PSN J11452955-5035531"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003300/CBET003392.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3392
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013L IN ESO 216-39 = PSN J11452955-5035531
+     L. A. G. Monard, Calitzdorp, Western Cape, South Africa, r"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [72]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J15213475-0722183"
+    ["ra"]=>
+    string(9) "230.39479"
+    ["dec"]=>
+    string(8) "-7.37175"
+    ["timestamp"]=>
+    string(19) "2013-01-27 03:09:36"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/788892"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [73]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J11500413+2116460"
+    ["ra"]=>
+    string(9) "177.51721"
+    ["dec"]=>
+    string(8) "21.27944"
+    ["timestamp"]=>
+    string(19) "2013-01-26 13:57:36"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/747271"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [74]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PNV J00440207+4125442"
+    ["ra"]=>
+    string(8) "11.00862"
+    ["dec"]=>
+    string(8) "41.42894"
+    ["timestamp"]=>
+    string(19) "2013-01-26 05:14:52"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/735222"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [75]=>
+  array(6) {
+    ["name"]=>
+    string(52) "SUPERNOVA 2013K IN ESO 9-G10 = PSN J17393154-8518381"
+    ["ra"]=>
+    string(15) "264.88141666667"
+    ["dec"]=>
+    string(16) "-85.310583333333"
+    ["timestamp"]=>
+    string(19) "2013-01-26 01:30:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(52) "SUPERNOVA 2013K IN ESO 9-G10 = PSN J17393154-8518381"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003300/CBET003391.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3391
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013K IN ESO 9-G10 = PSN J17393154-8518381
+     Stuart Parker, Canterbury, New Zealand, reports the discove"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [76]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J03353029+3816597"
+    ["ra"]=>
+    string(8) "53.87621"
+    ["dec"]=>
+    string(8) "38.28325"
+    ["timestamp"]=>
+    string(19) "2013-01-25 09:24:00"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/797526"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [77]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J23470787+2929115"
+    ["ra"]=>
+    string(9) "356.78279"
+    ["dec"]=>
+    string(8) "29.48653"
+    ["timestamp"]=>
+    string(19) "2013-01-25 08:55:46"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/726211"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [78]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J13275489+3022294"
+    ["ra"]=>
+    string(9) "201.97871"
+    ["dec"]=>
+    string(8) "30.37483"
+    ["timestamp"]=>
+    string(19) "2013-01-24 16:36:00"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/732487"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [79]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J09382049-3900510"
+    ["ra"]=>
+    string(9) "144.58537"
+    ["dec"]=>
+    string(9) "-39.01417"
+    ["timestamp"]=>
+    string(19) "2013-01-24 11:19:12"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/752840"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [80]=>
+  array(6) {
+    ["name"]=>
+    string(15) "SUPERNOVA 2013I"
+    ["ra"]=>
+    string(15) "42.425708333333"
+    ["dec"]=>
+    string(16) "0.75991666666667"
+    ["timestamp"]=>
+    string(19) "2013-01-19 11:30:01"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(15) "SUPERNOVA 2013I"
+        ["link"]=>
+        string(54) "http://cbat.eps.harvard.edu/cbet/003300/CBET003386.txt"
+        ["description"]=>
+        string(500) "Electronic Telegram No. 3386
+Central Bureau for Astronomical Telegrams
+INTERNATIONAL ASTRONOMICAL UNION
+CBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;
+ 20 Oxford St.; Cambridge, MA  02138; U.S.A.
+e-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)
+URL http://www.cbat.eps.harvard.edu/index.html
+Prepared using the Tamkin Foundation Computer Network
+
+
+SUPERNOVA 2013I
+     Masaomi Tanaka, National Astronomical Observatory of Japan; Kensho Mori,
+Konan University; Tomok"
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(16) "CBET: Supernovae"
+      ["url"]=>
+      string(54) "http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml"
+      ["description"]=>
+      string(93) "CBET: Supernovae. http://www.cbat.eps.harvard.edurss/cbat/supernova.atom. Daniel W. E. Green."
+    }
+  }
+  [81]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J09133717+2959587"
+    ["ra"]=>
+    string(9) "138.40488"
+    ["dec"]=>
+    string(8) "29.99964"
+    ["timestamp"]=>
+    string(19) "2013-01-15 05:19:12"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/677071"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [82]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PNV J13370342-2953398"
+    ["ra"]=>
+    string(9) "204.26425"
+    ["dec"]=>
+    string(9) "-29.89439"
+    ["timestamp"]=>
+    string(19) "2013-01-10 03:58:33"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/669532"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [83]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J09063070-7549015"
+    ["ra"]=>
+    string(9) "136.62792"
+    ["dec"]=>
+    string(9) "-75.81708"
+    ["timestamp"]=>
+    string(19) "2013-01-06 08:33:36"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/622859"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [84]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J23284503-4119562"
+    ["ra"]=>
+    string(9) "352.18762"
+    ["dec"]=>
+    string(9) "-41.33228"
+    ["timestamp"]=>
+    string(19) "2013-01-05 05:48:00"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/616780"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [85]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J11532132+2044100"
+    ["ra"]=>
+    string(9) "178.33883"
+    ["dec"]=>
+    string(8) "20.73611"
+    ["timestamp"]=>
+    string(19) "2013-01-05 05:19:12"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/616777"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [86]=>
+  array(6) {
+    ["name"]=>
+    string(21) "TCP J01340439+3039043"
+    ["ra"]=>
+    string(8) "23.51829"
+    ["dec"]=>
+    string(8) "30.65119"
+    ["timestamp"]=>
+    string(19) "2013-01-04 06:11:19"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/605739"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [87]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J09040080-7203248"
+    ["ra"]=>
+    string(9) "136.00333"
+    ["dec"]=>
+    string(9) "-72.05689"
+    ["timestamp"]=>
+    string(19) "2013-01-03 07:23:02"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/603726"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [88]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J13185081+7245475"
+    ["ra"]=>
+    string(9) "199.71171"
+    ["dec"]=>
+    string(8) "72.76319"
+    ["timestamp"]=>
+    string(19) "2013-01-02 07:46:39"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/616774"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [89]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J02220426+3213578"
+    ["ra"]=>
+    string(8) "35.51775"
+    ["dec"]=>
+    string(8) "32.23272"
+    ["timestamp"]=>
+    string(19) "2013-01-01 00:13:20"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/594029"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [90]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J11401584+1727222"
+    ["ra"]=>
+    string(7) "175.066"
+    ["dec"]=>
+    string(8) "17.45617"
+    ["timestamp"]=>
+    string(19) "2012-12-28 19:00:00"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/584918"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [91]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PNV J00461912+4144364"
+    ["ra"]=>
+    string(8) "11.57967"
+    ["dec"]=>
+    string(8) "41.74344"
+    ["timestamp"]=>
+    string(19) "2012-12-26 06:40:16"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/565819"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [92]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J07165548+5145476"
+    ["ra"]=>
+    string(9) "109.23117"
+    ["dec"]=>
+    string(8) "51.76322"
+    ["timestamp"]=>
+    string(19) "2012-12-23 14:30:43"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/562544"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [93]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J05452726-2556322"
+    ["ra"]=>
+    string(8) "86.36358"
+    ["dec"]=>
+    string(9) "-25.94228"
+    ["timestamp"]=>
+    string(19) "2012-12-21 02:26:24"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/557549"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [94]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J15035487+4206553"
+    ["ra"]=>
+    string(9) "225.97862"
+    ["dec"]=>
+    string(8) "42.11536"
+    ["timestamp"]=>
+    string(19) "2012-12-20 15:07:17"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/556786"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [95]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J04424114+1834597"
+    ["ra"]=>
+    string(8) "70.67142"
+    ["dec"]=>
+    string(8) "18.58325"
+    ["timestamp"]=>
+    string(19) "2012-12-20 09:41:25"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/554303"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [96]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J11173029+5124074"
+    ["ra"]=>
+    string(9) "169.37621"
+    ["dec"]=>
+    string(8) "51.40206"
+    ["timestamp"]=>
+    string(19) "2012-12-19 19:24:02"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/562116"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [97]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J10532275+1646349"
+    ["ra"]=>
+    string(9) "163.34479"
+    ["dec"]=>
+    string(8) "16.77636"
+    ["timestamp"]=>
+    string(19) "2012-12-18 13:32:15"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/550983"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [98]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J09351166-1624178"
+    ["ra"]=>
+    string(9) "143.79858"
+    ["dec"]=>
+    string(9) "-16.40494"
+    ["timestamp"]=>
+    string(19) "2012-12-17 10:21:36"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/543760"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [99]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J12472930-4319443"
+    ["ra"]=>
+    string(9) "191.87208"
+    ["dec"]=>
+    string(9) "-43.32897"
+    ["timestamp"]=>
+    string(19) "2012-12-16 02:40:48"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/539393"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [100]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J09491471-4754456"
+    ["ra"]=>
+    string(9) "147.31129"
+    ["dec"]=>
+    string(9) "-47.91267"
+    ["timestamp"]=>
+    string(19) "2012-12-14 23:19:12"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/539389"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [101]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J09491471-4754456"
+    ["ra"]=>
+    string(9) "147.31129"
+    ["dec"]=>
+    string(9) "-47.91267"
+    ["timestamp"]=>
+    string(19) "2012-12-14 23:19:12"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/539390"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [102]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J02182396+1633586"
+    ["ra"]=>
+    string(8) "34.59983"
+    ["dec"]=>
+    string(8) "16.56628"
+    ["timestamp"]=>
+    string(19) "2012-12-12 22:36:00"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/525922"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [103]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J10354824+3900279"
+    ["ra"]=>
+    string(7) "158.951"
+    ["dec"]=>
+    string(8) "39.00775"
+    ["timestamp"]=>
+    string(19) "2012-12-12 07:28:48"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/525921"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [104]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J02142579+0523088"
+    ["ra"]=>
+    string(8) "33.60746"
+    ["dec"]=>
+    string(7) "5.38578"
+    ["timestamp"]=>
+    string(19) "2012-12-12 00:02:24"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/525920"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [105]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J09413802+4840255"
+    ["ra"]=>
+    string(9) "145.40842"
+    ["dec"]=>
+    string(8) "48.67375"
+    ["timestamp"]=>
+    string(19) "2012-12-11 06:31:12"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/519506"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [106]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J23012936+0653381"
+    ["ra"]=>
+    string(9) "345.37233"
+    ["dec"]=>
+    string(7) "6.89392"
+    ["timestamp"]=>
+    string(19) "2012-12-10 21:38:24"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/525919"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [107]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J06564291+4854103"
+    ["ra"]=>
+    string(9) "104.17879"
+    ["dec"]=>
+    string(8) "48.90286"
+    ["timestamp"]=>
+    string(19) "2012-12-10 13:00:00"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/565825"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [108]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J06434189+5212337"
+    ["ra"]=>
+    string(9) "100.92454"
+    ["dec"]=>
+    string(8) "52.20936"
+    ["timestamp"]=>
+    string(19) "2012-12-10 00:02:24"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/525918"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [109]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J11071919+4622462"
+    ["ra"]=>
+    string(9) "166.82996"
+    ["dec"]=>
+    string(7) "46.3795"
+    ["timestamp"]=>
+    string(19) "2012-12-03 23:02:38"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/486521"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [110]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J08394202+6058160"
+    ["ra"]=>
+    string(9) "129.92508"
+    ["dec"]=>
+    string(8) "60.97111"
+    ["timestamp"]=>
+    string(19) "2012-12-02 17:12:00"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/481577"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [111]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J10371019+1239090"
+    ["ra"]=>
+    string(9) "159.29246"
+    ["dec"]=>
+    string(7) "12.6525"
+    ["timestamp"]=>
+    string(19) "2012-11-04 06:02:24"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/463148"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [112]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J22154284+3714380"
+    ["ra"]=>
+    string(8) "333.9285"
+    ["dec"]=>
+    string(8) "37.24389"
+    ["timestamp"]=>
+    string(19) "2012-10-31 07:56:41"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/462452"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [113]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J21450963+1006126"
+    ["ra"]=>
+    string(9) "326.29012"
+    ["dec"]=>
+    string(7) "10.1035"
+    ["timestamp"]=>
+    string(19) "2012-10-30 14:34:59"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/463323"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [114]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J10125032+1240567"
+    ["ra"]=>
+    string(9) "153.20967"
+    ["dec"]=>
+    string(8) "12.68242"
+    ["timestamp"]=>
+    string(19) "2012-10-29 08:43:12"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/462234"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [115]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J13144705+5405055"
+    ["ra"]=>
+    string(9) "198.69604"
+    ["dec"]=>
+    string(8) "54.08486"
+    ["timestamp"]=>
+    string(19) "2012-10-25 17:02:09"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/461894"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [116]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PNV J05202109-7305433"
+    ["ra"]=>
+    string(8) "80.08787"
+    ["dec"]=>
+    string(9) "-73.09536"
+    ["timestamp"]=>
+    string(19) "2012-10-25 03:26:24"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/463158"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [117]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J01514770+2116206"
+    ["ra"]=>
+    string(8) "27.94875"
+    ["dec"]=>
+    string(8) "21.27239"
+    ["timestamp"]=>
+    string(19) "2012-10-23 17:47:13"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/461973"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [118]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J22440166+1551493"
+    ["ra"]=>
+    string(9) "341.00692"
+    ["dec"]=>
+    string(8) "15.86369"
+    ["timestamp"]=>
+    string(19) "2012-09-09 17:29:48"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/288968"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [119]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J04072528+0145333"
+    ["ra"]=>
+    string(8) "61.85533"
+    ["dec"]=>
+    string(7) "1.75925"
+    ["timestamp"]=>
+    string(19) "2012-09-08 22:52:48"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/287778"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+  [120]=>
+  array(6) {
+    ["name"]=>
+    string(21) "PSN J14352290-1343569"
+    ["ra"]=>
+    string(9) "218.84542"
+    ["dec"]=>
+    string(9) "-13.73247"
+    ["timestamp"]=>
+    string(19) "2012-09-03 05:36:00"
+    ["message"]=>
+    array(1) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(4) "CBAT"
+        ["link"]=>
+        string(36) "http://skyalert.org/event/xml/252692"
+        ["description"]=>
+        string(16) "Not Available..."
+      }
+    }
+    ["feed"]=>
+    array(3) {
+      ["name"]=>
+      string(56) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams"
+      ["url"]=>
+      string(30) "http://skyalert.org/feeds/290/"
+      ["description"]=>
+      string(155) "Skyalert/CBAT: Central Bureau for Astronomical Telegrams. http://www.skyalert.org/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."
+    }
+  }
+}
+
+
+
+[{"name":"SUPERNOVA 2013ac = PSN J09454879+5840073","ra":"146.286625","dec":"58.668694444444","timestamp":"2013-02-23 14:30:01","message":[{"title":"SUPERNOVA 2013ac = PSN J09454879+5840073","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003400\/CBET003424.txt","description":"Electronic Telegram No. 3424\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013ac = PSN J09454879+5840073\n     Tianmeng Zhang and Xu Zhou, National Astronomical Observatories of Chin"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"SUPERNOVA 2013ab IN NGC 5669 = PSN J14324449+0953123","ra":"68.185375","dec":"9.88675","timestamp":"2013-02-20 14:30:01","message":[{"title":"SUPERNOVA 2013ab IN NGC 5669 = PSN J14324449+0953123","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003400\/CBET003422.txt","description":"Electronic Telegram No. 3422\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013ab IN NGC 5669 = PSN J14324449+0953123\n     [Editor's note:  this text replaces that on CBET 3421.]\n   "}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"SUPERNOVA 2013ab IN NGC 5669 = PSN J14324449+0953123","ra":"68.185375","dec":"9.88675","timestamp":"2013-02-20 02:00:01","message":[{"title":"SUPERNOVA 2013ab IN NGC 5669 = PSN J14324449+0953123","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003400\/CBET003421.txt","description":"Electronic Telegram No. 3421\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013ab IN NGC 5669 = PSN J14324449+0953123\n     Further to CBET 3302, P. Blanchard, W. Zheng, S. B. Cenko, "}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"CRTS2 mag 19.8","ra":"137.38746","dec":"23.41789","timestamp":"2013-02-19 02:09:26","message":[{"title":"CRTS2 mag 19.8","link":"http:\/\/skyalert.org\/event\/xml\/864302","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.9","ra":"137.23238","dec":"23.58066","timestamp":"2013-02-19 02:08:13","message":[{"title":"CRTS2 mag 19.9","link":"http:\/\/skyalert.org\/event\/xml\/864301","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"PSN J12211796+1130252 IN NGC 4294","ra":"185.32483333333","dec":"11.507","timestamp":"2013-02-19 01:00:01","message":[{"title":"PSN J12211796+1130252 IN NGC 4294","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003400\/CBET003419.txt","description":"Electronic Telegram No. 3419\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nPSN J12211796+1130252 IN NGC 4294\n     Alessandro Dimai, Cortina d'Ampezzo, Italy, reports the discovery of a\nvariabl"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"CRTS2 mag 13.6","ra":"223.89604","dec":"-15.56776","timestamp":"2013-02-18 07:30:09","message":[{"title":"CRTS2 mag 13.6","link":"http:\/\/skyalert.org\/event\/xml\/864019","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.3","ra":"223.96578","dec":"-16.01322","timestamp":"2013-02-18 07:29:55","message":[{"title":"CRTS2 mag 19.3","link":"http:\/\/skyalert.org\/event\/xml\/864018","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 16.9","ra":"203.24077","dec":"-10.02991","timestamp":"2013-02-18 06:16:51","message":[{"title":"CRTS2 mag 16.9","link":"http:\/\/skyalert.org\/event\/xml\/863980","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.8","ra":"110.74463","dec":"18.07262","timestamp":"2013-02-17 23:24:58","message":[{"title":"CRTS2 mag 19.8","link":"http:\/\/skyalert.org\/event\/xml\/863772","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.2","ra":"110.89719","dec":"17.59751","timestamp":"2013-02-17 23:24:02","message":[{"title":"CRTS2 mag 19.2","link":"http:\/\/skyalert.org\/event\/xml\/863770","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.0","ra":"110.81264","dec":"25.91484","timestamp":"2013-02-17 22:56:49","message":[{"title":"CRTS2 mag 19.0","link":"http:\/\/skyalert.org\/event\/xml\/863760","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 18.2","ra":"109.75215","dec":"25.51025","timestamp":"2013-02-17 22:56:31","message":[{"title":"CRTS2 mag 18.2","link":"http:\/\/skyalert.org\/event\/xml\/863759","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.1","ra":"108.43609","dec":"24.95749","timestamp":"2013-02-17 22:55:05","message":[{"title":"CRTS2 mag 19.1","link":"http:\/\/skyalert.org\/event\/xml\/863755","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.4","ra":"107.45894","dec":"23.88125","timestamp":"2013-02-17 22:51:47","message":[{"title":"CRTS2 mag 19.4","link":"http:\/\/skyalert.org\/event\/xml\/863750","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 18.5","ra":"109.72547","dec":"24.70441","timestamp":"2013-02-17 22:45:34","message":[{"title":"CRTS2 mag 18.5","link":"http:\/\/skyalert.org\/event\/xml\/863745","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 14.6","ra":"241.92429","dec":"-3.18211","timestamp":"2013-02-17 08:02:51","message":[{"title":"CRTS2 mag 14.6","link":"http:\/\/skyalert.org\/event\/xml\/862012","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.9","ra":"197.60695","dec":"-10.03554","timestamp":"2013-02-17 07:25:13","message":[{"title":"CRTS2 mag 19.9","link":"http:\/\/skyalert.org\/event\/xml\/861698","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.6","ra":"200.3907","dec":"-7.93231","timestamp":"2013-02-17 07:20:16","message":[{"title":"CRTS2 mag 19.6","link":"http:\/\/skyalert.org\/event\/xml\/861682","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 17.1","ra":"152.20762","dec":"20.15573","timestamp":"2013-02-17 05:46:42","message":[{"title":"CRTS2 mag 17.1","link":"http:\/\/skyalert.org\/event\/xml\/861627","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"SUPERNOVA 2013aa IN NGC 5643 = PSN J14323388-4413278","ra":"218.14116666667","dec":"-44.224388888889","timestamp":"2013-02-16 19:00:01","message":[{"title":"SUPERNOVA 2013aa IN NGC 5643 = PSN J14323388-4413278","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003400\/CBET003416.txt","description":"Electronic Telegram No. 3416\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013aa IN NGC 5643 = PSN J14323388-4413278\n     Stuart Parker, Canterbury, New Zealand, reports the discove"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"CRTS2 mag 13.0","ra":"208.45437","dec":"-7.64723","timestamp":"2013-02-16 07:48:28","message":[{"title":"CRTS2 mag 13.0","link":"http:\/\/skyalert.org\/event\/xml\/858088","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.4","ra":"154.61101","dec":"15.23674","timestamp":"2013-02-16 05:52:01","message":[{"title":"CRTS2 mag 19.4","link":"http:\/\/skyalert.org\/event\/xml\/858033","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.7","ra":"152.42652","dec":"6.1424","timestamp":"2013-02-16 05:10:19","message":[{"title":"CRTS2 mag 19.7","link":"http:\/\/skyalert.org\/event\/xml\/858015","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 13.2","ra":"153.90089","dec":"8.42114","timestamp":"2013-02-16 05:00:02","message":[{"title":"CRTS2 mag 13.2","link":"http:\/\/skyalert.org\/event\/xml\/857969","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.9","ra":"148.33125","dec":"16.34347","timestamp":"2013-02-16 01:37:40","message":[{"title":"CRTS2 mag 19.9","link":"http:\/\/skyalert.org\/event\/xml\/856946","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 18.8","ra":"148.69962","dec":"17.28412","timestamp":"2013-02-16 01:37:22","message":[{"title":"CRTS2 mag 18.8","link":"http:\/\/skyalert.org\/event\/xml\/856942","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.8","ra":"147.48123","dec":"17.19758","timestamp":"2013-02-16 01:37:20","message":[{"title":"CRTS2 mag 19.8","link":"http:\/\/skyalert.org\/event\/xml\/856943","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.5","ra":"148.63649","dec":"17.29119","timestamp":"2013-02-16 01:36:02","message":[{"title":"CRTS2 mag 19.5","link":"http:\/\/skyalert.org\/event\/xml\/856939","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"SUPERNOVA 2013Z = PSN J13275489+3022294","ra":"201.97870833333","dec":"30.374833333333","timestamp":"2013-02-16 01:30:01","message":[{"title":"SUPERNOVA 2013Z = PSN J13275489+3022294","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003400\/CBET003415.txt","description":"Electronic Telegram No. 3415\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013Z = PSN J13275489+3022294\n     Tianmeng Zhang and Xu Zhou, National Astronomical Observatories of China"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"CRTS2 mag 19.5","ra":"125.25","dec":"14.30938","timestamp":"2013-02-16 00:17:30","message":[{"title":"CRTS2 mag 19.5","link":"http:\/\/skyalert.org\/event\/xml\/856910","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 17.4","ra":"144.97142","dec":"16.92117","timestamp":"2013-02-15 01:09:15","message":[{"title":"CRTS2 mag 17.4","link":"http:\/\/skyalert.org\/event\/xml\/853889","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 13.2","ra":"141.47146","dec":"18.38222","timestamp":"2013-02-15 00:17:35","message":[{"title":"CRTS2 mag 13.2","link":"http:\/\/skyalert.org\/event\/xml\/853794","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.4","ra":"166.83055","dec":"12.84802","timestamp":"2013-02-14 07:04:46","message":[{"title":"CRTS2 mag 19.4","link":"http:\/\/skyalert.org\/event\/xml\/851220","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 18.9","ra":"161.18247","dec":"12.00945","timestamp":"2013-02-14 05:00:18","message":[{"title":"CRTS2 mag 18.9","link":"http:\/\/skyalert.org\/event\/xml\/850620","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 13.0","ra":"135.25009","dec":"16.56742","timestamp":"2013-02-14 00:35:37","message":[{"title":"CRTS2 mag 13.0","link":"http:\/\/skyalert.org\/event\/xml\/849707","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 18.8","ra":"110.14304","dec":"23.73269","timestamp":"2013-02-13 23:14:50","message":[{"title":"CRTS2 mag 18.8","link":"http:\/\/skyalert.org\/event\/xml\/849179","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"SUPERNOVA 2013Y","ra":"182.41541666667","dec":"16.203972222222","timestamp":"2013-02-13 12:00:01","message":[{"title":"SUPERNOVA 2013Y","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003400\/CBET003414.txt","description":"Electronic Telegram No. 3414\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013Y\n     Tomoki Morokuma, Institute of Astronomy, University of Tokyo; Rina\nOkamoto, Takashi Horiuchi, an"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"SUPERNOVA 2013U IN PGC 29001 = PSN J10011200+0019423","ra":"150.3","dec":"0.32841666666667","timestamp":"2013-02-10 18:01:09","message":[{"title":"SUPERNOVA 2013U IN PGC 29001 = PSN J10011200+0019423","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003400\/CBET003410.txt","description":"Electronic Telegram No. 3410\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013U IN PGC 29001 = PSN J10011200+0019423\n     R. Gagliano, J. Newton, and T. Puckett report the discovery"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"SUPERNOVA 2013T IN UGC 8250 = PSN J13101968+3228257","ra":"47.582","dec":"32.473805555556","timestamp":"2013-02-10 18:01:09","message":[{"title":"SUPERNOVA 2013T IN UGC 8250 = PSN J13101968+3228257","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003400\/CBET003407.txt","description":"Electronic Telegram No. 3407\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013T IN UGC 8250 = PSN J13101968+3228257\n     [Editor's note:  this text replaces that on CBET 3405 (desig"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"SUPERNOVA 2013Q IN NGC 7753 = PSN J23470787+2929115","ra":"356.78279166667","dec":"29.486527777778","timestamp":"2013-02-10 18:01:08","message":[{"title":"SUPERNOVA 2013Q IN NGC 7753 = PSN J23470787+2929115","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003400\/CBET003401.txt","description":"Electronic Telegram No. 3401\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013Q IN NGC 7753 = PSN J23470787+2929115\n     [Editor's note:  this text replaces that on CBET 3400 (offse"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"SUPERNOVA 2013R","ra":"142.89633333333","dec":"35.395111111111","timestamp":"2013-02-10 18:01:08","message":[{"title":"SUPERNOVA 2013R","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003400\/CBET003403.txt","description":"Electronic Telegram No. 3403\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013R\n     V. Lipunov communicates the discovery by Sergey Shurpakov and the MASTER\nteam of a possible supe"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"SUPERNOVA 2013S = PSN J03353029+3816597","ra":"53.876208333333","dec":"38.283138888889","timestamp":"2013-02-10 18:01:08","message":[{"title":"SUPERNOVA 2013S = PSN J03353029+3816597","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003400\/CBET003406.txt","description":"Electronic Telegram No. 3406\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013S = PSN J03353029+3816597\n     Li Zhou, Xiaofeng Wang, and Juncheng Chen, Tsinghua University (THU);\nan"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"SUPERNOVA 2013R IN UGC 8250 = PSN J13101968+3228257","ra":"47.582","dec":"32.473805555556","timestamp":"2013-02-10 18:01:08","message":[{"title":"SUPERNOVA 2013R IN UGC 8250 = PSN J13101968+3228257","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003400\/CBET003405.txt","description":"Electronic Telegram No. 3405\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013R IN UGC 8250 = PSN J13101968+3228257\n     S. Howerton, Arkansas City, KS, U.S.A.; A. J. Drake, S. G. D"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"SUPERNOVA 2013Q IN NGC 7753 = PSN J23470787+2929115","ra":"356.78279166667","dec":"29.486527777778","timestamp":"2013-02-10 18:01:08","message":[{"title":"SUPERNOVA 2013Q IN NGC 7753 = PSN J23470787+2929115","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003400\/CBET003400.txt","description":"Electronic Telegram No. 3400\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013Q IN NGC 7753 = PSN J23470787+2929115\n     Zhijian Xu, Nanjing, Jiangsu, China; and Xing Gao, Urumqi, X"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"PNV J00392567+4037451","ra":"9.85696","dec":"40.62919","timestamp":"2013-02-10 06:17:05","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/830570","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"TCP J15375685-2440136","ra":"234.48687","dec":"-24.67044","timestamp":"2013-02-08 13:42:46","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/823071","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"CRTS2 mag 18.6","ra":"31.83201","dec":"11.19924","timestamp":"2013-02-07 22:51:55","message":[{"title":"CRTS2 mag 18.6","link":"http:\/\/skyalert.org\/event\/xml\/815187","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.6","ra":"29.71896","dec":"11.96237","timestamp":"2013-02-07 22:17:01","message":[{"title":"CRTS2 mag 19.6","link":"http:\/\/skyalert.org\/event\/xml\/814439","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 18.4","ra":"28.723","dec":"9.25394","timestamp":"2013-02-07 21:45:30","message":[{"title":"CRTS2 mag 18.4","link":"http:\/\/skyalert.org\/event\/xml\/814427","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 18.8","ra":"54.75353","dec":"23.7895","timestamp":"2013-02-06 00:02:42","message":[{"title":"CRTS2 mag 18.8","link":"http:\/\/skyalert.org\/event\/xml\/801593","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.4","ra":"11.00677","dec":"5.91362","timestamp":"2013-02-05 21:45:21","message":[{"title":"CRTS2 mag 19.4","link":"http:\/\/skyalert.org\/event\/xml\/801347","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.5","ra":"12.01287","dec":"4.16449","timestamp":"2013-02-05 21:43:54","message":[{"title":"CRTS2 mag 19.5","link":"http:\/\/skyalert.org\/event\/xml\/801345","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 18.0","ra":"229.70532","dec":"-18.30681","timestamp":"2013-02-05 08:00:45","message":[{"title":"CRTS2 mag 18.0","link":"http:\/\/skyalert.org\/event\/xml\/797592","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.1","ra":"228.75118","dec":"-17.56769","timestamp":"2013-02-05 08:00:13","message":[{"title":"CRTS2 mag 19.1","link":"http:\/\/skyalert.org\/event\/xml\/797587","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 13.6","ra":"73.43057","dec":"23.62414","timestamp":"2013-02-04 23:47:59","message":[{"title":"CRTS2 mag 13.6","link":"http:\/\/skyalert.org\/event\/xml\/794939","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"SUPERNOVA 2013P IN MCG +05-22-20 = PSN J09133717+2959587","ra":"138.404875","dec":"29.999638888889","timestamp":"2013-02-04 16:00:01","message":[{"title":"SUPERNOVA 2013P IN MCG +05-22-20 = PSN J09133717+2959587","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003300\/CBET003399.txt","description":"Electronic Telegram No. 3399\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013P IN MCG +05-22-20 = PSN J09133717+2959587\n     S. Howerton, Arkansas City, KS, U.S.A.; A. J. Drake, S."}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"PNV J23080471+6046521","ra":"347.01963","dec":"60.78114","timestamp":"2013-02-02 04:53:08","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/783014","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"CRTS2 mag 18.8","ra":"136.77173","dec":"11.84225","timestamp":"2013-02-02 04:52:59","message":[{"title":"CRTS2 mag 18.8","link":"http:\/\/skyalert.org\/event\/xml\/777868","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.9","ra":"139.57016","dec":"16.57584","timestamp":"2013-02-02 02:28:36","message":[{"title":"CRTS2 mag 19.9","link":"http:\/\/skyalert.org\/event\/xml\/777830","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.9","ra":"134.17008","dec":"13.24213","timestamp":"2013-02-02 01:41:26","message":[{"title":"CRTS2 mag 19.9","link":"http:\/\/skyalert.org\/event\/xml\/777402","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.4","ra":"118.42865","dec":"16.83736","timestamp":"2013-02-02 00:35:49","message":[{"title":"CRTS2 mag 19.4","link":"http:\/\/skyalert.org\/event\/xml\/777033","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 19.7","ra":"5.6154","dec":"13.97117","timestamp":"2013-02-01 22:12:05","message":[{"title":"CRTS2 mag 19.7","link":"http:\/\/skyalert.org\/event\/xml\/776986","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 18.5","ra":"5.72175","dec":"13.67799","timestamp":"2013-02-01 22:11:41","message":[{"title":"CRTS2 mag 18.5","link":"http:\/\/skyalert.org\/event\/xml\/776984","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"SUPERNOVA 2013O = PSN J08520598+5236062","ra":"133.02491666667","dec":"52.601722222222","timestamp":"2013-02-01 20:30:01","message":[{"title":"SUPERNOVA 2013O = PSN J08520598+5236062","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003300\/CBET003395.txt","description":"Electronic Telegram No. 3395\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013O = PSN J08520598+5236062\n     Tianmeng Zhang and Xu Zhou, National Astronomical Observatories of China"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"CRTS2 mag 19.7","ra":"120.22371","dec":"17.05532","timestamp":"2013-02-01 02:34:25","message":[{"title":"CRTS2 mag 19.7","link":"http:\/\/skyalert.org\/event\/xml\/774161","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 15.8","ra":"63.62724","dec":"28.08729","timestamp":"2013-02-01 00:09:54","message":[{"title":"CRTS2 mag 15.8","link":"http:\/\/skyalert.org\/event\/xml\/773732","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 18.9","ra":"66.60102","dec":"20.0134","timestamp":"2013-01-31 23:54:55","message":[{"title":"CRTS2 mag 18.9","link":"http:\/\/skyalert.org\/event\/xml\/773725","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"CRTS2 mag 13.3","ra":"66.92742","dec":"20.5509","timestamp":"2013-01-31 23:54:40","message":[{"title":"CRTS2 mag 13.3","link":"http:\/\/skyalert.org\/event\/xml\/773724","description":"Not Available..."}],"feed":{"name":"Skyalert\/CRTS2: Bright CRTS2","url":"http:\/\/skyalert.org\/feeds\/149\/","description":"Skyalert\/CRTS2: Bright CRTS2. http:\/\/www.skyalert.org\/. From rule 149, trigger CRTS2[\"First Detection params\"][\"magnitude\"] < 20.0. Bright CRTS2."}},{"name":"SUPERNOVA 2013N = PSN J11500413+2116460","ra":"177.51720833333","dec":"21.279444444444","timestamp":"2013-01-28 21:00:01","message":[{"title":"SUPERNOVA 2013N = PSN J11500413+2116460","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003300\/CBET003394.txt","description":"Electronic Telegram No. 3394\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013N = PSN J11500413+2116460\n     Li Zhou, Xiaofeng Wang, and Juncheng Chen, Tsinghua University (THU),\nCh"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"SUPERNOVA 2013M IN ESO 325-G43 = PSN J13595668-3751494","ra":"209.98616666667","dec":"-37.863722222222","timestamp":"2013-01-28 18:30:01","message":[{"title":"SUPERNOVA 2013M IN ESO 325-G43 = PSN J13595668-3751494","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003300\/CBET003393.txt","description":"Electronic Telegram No. 3393\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013M IN ESO 325-G43 = PSN J13595668-3751494\n     Stuart Parker, Canterbury, New Zealand, reports the disco"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"SUPERNOVA 2013L IN ESO 216-39 = PSN J11452955-5035531","ra":"176.373125","dec":"-50.598083333333","timestamp":"2013-01-28 16:30:01","message":[{"title":"SUPERNOVA 2013L IN ESO 216-39 = PSN J11452955-5035531","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003300\/CBET003392.txt","description":"Electronic Telegram No. 3392\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013L IN ESO 216-39 = PSN J11452955-5035531\n     L. A. G. Monard, Calitzdorp, Western Cape, South Africa, r"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"PSN J15213475-0722183","ra":"230.39479","dec":"-7.37175","timestamp":"2013-01-27 03:09:36","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/788892","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J11500413+2116460","ra":"177.51721","dec":"21.27944","timestamp":"2013-01-26 13:57:36","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/747271","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PNV J00440207+4125442","ra":"11.00862","dec":"41.42894","timestamp":"2013-01-26 05:14:52","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/735222","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"SUPERNOVA 2013K IN ESO 9-G10 = PSN J17393154-8518381","ra":"264.88141666667","dec":"-85.310583333333","timestamp":"2013-01-26 01:30:01","message":[{"title":"SUPERNOVA 2013K IN ESO 9-G10 = PSN J17393154-8518381","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003300\/CBET003391.txt","description":"Electronic Telegram No. 3391\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013K IN ESO 9-G10 = PSN J17393154-8518381\n     Stuart Parker, Canterbury, New Zealand, reports the discove"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"PSN J03353029+3816597","ra":"53.87621","dec":"38.28325","timestamp":"2013-01-25 09:24:00","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/797526","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J23470787+2929115","ra":"356.78279","dec":"29.48653","timestamp":"2013-01-25 08:55:46","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/726211","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J13275489+3022294","ra":"201.97871","dec":"30.37483","timestamp":"2013-01-24 16:36:00","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/732487","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J09382049-3900510","ra":"144.58537","dec":"-39.01417","timestamp":"2013-01-24 11:19:12","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/752840","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"SUPERNOVA 2013I","ra":"42.425708333333","dec":"0.75991666666667","timestamp":"2013-01-19 11:30:01","message":[{"title":"SUPERNOVA 2013I","link":"http:\/\/cbat.eps.harvard.edu\/cbet\/003300\/CBET003386.txt","description":"Electronic Telegram No. 3386\nCentral Bureau for Astronomical Telegrams\nINTERNATIONAL ASTRONOMICAL UNION\nCBAT Director:  Daniel W. E. Green; Hoffman Lab 209; Harvard University;\n 20 Oxford St.; Cambridge, MA  02138; U.S.A.\ne-mail:  cbatiau@eps.harvard.edu (alternate cbat@iau.org)\nURL http:\/\/www.cbat.eps.harvard.edu\/index.html\nPrepared using the Tamkin Foundation Computer Network\n\n\nSUPERNOVA 2013I\n     Masaomi Tanaka, National Astronomical Observatory of Japan; Kensho Mori,\nKonan University; Tomok"}],"feed":{"name":"CBET: Supernovae","url":"http:\/\/www.cbat.eps.harvard.edu\/rss\/cbat\/supernova.xml","description":"CBET: Supernovae. http:\/\/www.cbat.eps.harvard.edurss\/cbat\/supernova.atom. Daniel W. E. Green."}},{"name":"PSN J09133717+2959587","ra":"138.40488","dec":"29.99964","timestamp":"2013-01-15 05:19:12","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/677071","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PNV J13370342-2953398","ra":"204.26425","dec":"-29.89439","timestamp":"2013-01-10 03:58:33","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/669532","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J09063070-7549015","ra":"136.62792","dec":"-75.81708","timestamp":"2013-01-06 08:33:36","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/622859","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J23284503-4119562","ra":"352.18762","dec":"-41.33228","timestamp":"2013-01-05 05:48:00","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/616780","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J11532132+2044100","ra":"178.33883","dec":"20.73611","timestamp":"2013-01-05 05:19:12","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/616777","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"TCP J01340439+3039043","ra":"23.51829","dec":"30.65119","timestamp":"2013-01-04 06:11:19","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/605739","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J09040080-7203248","ra":"136.00333","dec":"-72.05689","timestamp":"2013-01-03 07:23:02","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/603726","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J13185081+7245475","ra":"199.71171","dec":"72.76319","timestamp":"2013-01-02 07:46:39","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/616774","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J02220426+3213578","ra":"35.51775","dec":"32.23272","timestamp":"2013-01-01 00:13:20","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/594029","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J11401584+1727222","ra":"175.066","dec":"17.45617","timestamp":"2012-12-28 19:00:00","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/584918","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PNV J00461912+4144364","ra":"11.57967","dec":"41.74344","timestamp":"2012-12-26 06:40:16","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/565819","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J07165548+5145476","ra":"109.23117","dec":"51.76322","timestamp":"2012-12-23 14:30:43","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/562544","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J05452726-2556322","ra":"86.36358","dec":"-25.94228","timestamp":"2012-12-21 02:26:24","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/557549","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J15035487+4206553","ra":"225.97862","dec":"42.11536","timestamp":"2012-12-20 15:07:17","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/556786","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J04424114+1834597","ra":"70.67142","dec":"18.58325","timestamp":"2012-12-20 09:41:25","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/554303","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J11173029+5124074","ra":"169.37621","dec":"51.40206","timestamp":"2012-12-19 19:24:02","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/562116","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J10532275+1646349","ra":"163.34479","dec":"16.77636","timestamp":"2012-12-18 13:32:15","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/550983","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J09351166-1624178","ra":"143.79858","dec":"-16.40494","timestamp":"2012-12-17 10:21:36","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/543760","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J12472930-4319443","ra":"191.87208","dec":"-43.32897","timestamp":"2012-12-16 02:40:48","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/539393","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J09491471-4754456","ra":"147.31129","dec":"-47.91267","timestamp":"2012-12-14 23:19:12","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/539389","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J09491471-4754456","ra":"147.31129","dec":"-47.91267","timestamp":"2012-12-14 23:19:12","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/539390","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J02182396+1633586","ra":"34.59983","dec":"16.56628","timestamp":"2012-12-12 22:36:00","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/525922","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J10354824+3900279","ra":"158.951","dec":"39.00775","timestamp":"2012-12-12 07:28:48","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/525921","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J02142579+0523088","ra":"33.60746","dec":"5.38578","timestamp":"2012-12-12 00:02:24","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/525920","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J09413802+4840255","ra":"145.40842","dec":"48.67375","timestamp":"2012-12-11 06:31:12","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/519506","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J23012936+0653381","ra":"345.37233","dec":"6.89392","timestamp":"2012-12-10 21:38:24","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/525919","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J06564291+4854103","ra":"104.17879","dec":"48.90286","timestamp":"2012-12-10 13:00:00","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/565825","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J06434189+5212337","ra":"100.92454","dec":"52.20936","timestamp":"2012-12-10 00:02:24","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/525918","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J11071919+4622462","ra":"166.82996","dec":"46.3795","timestamp":"2012-12-03 23:02:38","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/486521","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J08394202+6058160","ra":"129.92508","dec":"60.97111","timestamp":"2012-12-02 17:12:00","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/481577","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J10371019+1239090","ra":"159.29246","dec":"12.6525","timestamp":"2012-11-04 06:02:24","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/463148","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J22154284+3714380","ra":"333.9285","dec":"37.24389","timestamp":"2012-10-31 07:56:41","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/462452","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J21450963+1006126","ra":"326.29012","dec":"10.1035","timestamp":"2012-10-30 14:34:59","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/463323","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J10125032+1240567","ra":"153.20967","dec":"12.68242","timestamp":"2012-10-29 08:43:12","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/462234","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J13144705+5405055","ra":"198.69604","dec":"54.08486","timestamp":"2012-10-25 17:02:09","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/461894","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PNV J05202109-7305433","ra":"80.08787","dec":"-73.09536","timestamp":"2012-10-25 03:26:24","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/463158","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J01514770+2116206","ra":"27.94875","dec":"21.27239","timestamp":"2012-10-23 17:47:13","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/461973","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J22440166+1551493","ra":"341.00692","dec":"15.86369","timestamp":"2012-09-09 17:29:48","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/288968","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J04072528+0145333","ra":"61.85533","dec":"1.75925","timestamp":"2012-09-08 22:52:48","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/287778","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}},{"name":"PSN J14352290-1343569","ra":"218.84542","dec":"-13.73247","timestamp":"2012-09-03 05:36:00","message":[{"title":"CBAT","link":"http:\/\/skyalert.org\/event\/xml\/252692","description":"Not Available..."}],"feed":{"name":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams","url":"http:\/\/skyalert.org\/feeds\/290\/","description":"Skyalert\/CBAT: Central Bureau for Astronomical Telegrams. http:\/\/www.skyalert.org\/. From rule 290, trigger True. Central Bureau for Astronomical Telegrams."}}]

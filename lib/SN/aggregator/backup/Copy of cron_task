@@ -1,0 +1,2 @@
+filename=` date +%Y%m%d-%H `
+/usr/local/bin/php -f rss_feed_aggregator.php > /afs/cs.pitt.edu/projects/admt/web/sites/astro/di/SN/aggregator/log/back$filename.log

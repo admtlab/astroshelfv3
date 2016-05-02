@@ -1,0 +1,174 @@
+<html>
+	<head>
+		<title>Supernovae Project v0.1</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+		<!--
+		<script src="lib/" type="text/javascript" />
+		-->
+		<script type="text/javascript">
+			jQuery(document).ready(function($){
+				$.ajax({type: "POST",
+						url: "http://astro.cs.pitt.edu/di/SN/web/db/querySN_unit_testing.php",
+						data: {query: 1, offset: "all", limit: "100", orderby: "unique_id", sort: "DESC"},
+						dataType: "json"
+				}).done(function(json_msg){
+					//console.log(json_msg);
+					//return;
+					var res = json_msg;
+					jQuery.each(res, function(){
+						$("#display").append('<div class="item"><ul></ul></div>');
+						$("#display ul:last").append('<li>' + parseFloat(this.ra).toFixed(5) + ', ' +
+							parseFloat(this.dec).toFixed(5) + ' (' + this.hmsdms + ') ' + '</li>');
+						
+						var names_str = "";
+						jQuery.each(this.names, function(){
+							names_str += this + ", ";
+						});
+						names_str = names_str.substring(0, names_str.length-2);
+						$("#display ul:last").append('<li>' + names_str + '</li>');
+						
+						var type_arr = new Array();
+						var redshift_arr = new Array();
+						var disc_mag_arr = new Array();
+						var phase_arr = new Array();
+						jQuery.each(this.miscs, function(){
+							if(this.type != "undefine")	type_arr.push(this.type);
+							if(this.redshift != 0)	redshift_arr.push(this.redshift);
+							if(this.disc_mag != 0)	disc_mag_arr.push(this.disc_mag);
+							if(this.phase != "undefine")	phase_arr.push(this.phase);
+						});
+						var type_str = jQuery.unique(type_arr).join(' | ');
+						var redshift_str = jQuery.unique(redshift_arr).join(' | ');
+						var disc_mag_str = jQuery.unique(disc_mag_arr).join(' | ');
+						var phase_str = jQuery.unique(phase_arr).join(' | ');
+						if(!type_str)	type_str = "N/A";
+						if(!redshift_str)	redshift_str = "N/A";
+						if(!disc_mag_str)	disc_mag_str = "N/A";
+						if(!phase_str)	phase_str = "N/A";
+						$("#display ul:last").append('<li>Miscellaneous:</li>');
+						$("#display ul:last").append('<table border="1"></table>');
+						$("#display ul:last table").append('<tr><th>Type</th><th>Redshift</th><th>Disc Mag.</th><th>Phase</th></tr>');
+						$("#display ul:last table").append('<tr><td>' + type_str
+															+ '</td><td>' + redshift_str
+															+ '</td><td>' + disc_mag_str
+															+ '</td><td>' + phase_str
+															+ '</td></tr>');
+						
+						$("#display ul:last").append('<li>Messages:</li>');
+						$("#display ul:last").append('<div><ul></ul></div>');
+						jQuery.each(this.messages, function(){
+							$("#display ul:last").append('<div class="abstract"><li>Report of ' + this.type +
+								' from <a href="' + this.feed.url + '">' + this.feed.name + '</a></li>' +
+								'<a href="#" class="toggle">Details...</a></div>');
+							$("#display ul:last").append('<div class="detail" style="display:none">' +
+								'<p>' + this.title + '</p>' +
+								'<p>' + this.update_time + '</p>' +
+								'<p><a href="' + this.link + '">' + this.link + '</a></p>' +
+								'<p>' + this.description + '</p>' +
+								'</div>'
+							);
+						});
+						
+						var uni_id = this.id
+						$("#display div.item:last").append('<div align="right"><a href="#" class="add">add object to list id:</a>&nbsp;&nbsp;<input type="text" size="2"/></div>');
+						$("#display a.add:last").data('unique_id', uni_id);
+						
+						$("#display div.item:last").append('<br/><div align="right"><a href="#" class="feedback">feedback:</a>&nbsp;&nbsp;<input type="text" size="20"/></div>');
+						$("#display a.feedback:last").data('unique_id', uni_id);
+						$("#display div.item:last").append('<hr style="border:dashed;border-width:1px"/>');						
+					});
+					
+					$(".toggle").bind('click', function(e){
+						e.preventDefault();
+						$(this).parent().next().toggle();
+					});
+					
+					$(".add").bind('click', function(e){
+						e.preventDefault();
+						
+						var list_id = $(this).next().val();
+						var uni_id = $(this).data('unique_id');
+						//console.log(list_id);
+						$.ajax({type: "POST",
+								url: "http://astro.cs.pitt.edu/di/SN/web/db/listSN.php",
+								data: {add: 1, _list_id: list_id, _uni_id: uni_id},
+								dataType: "json"
+						}).done(function(json_msg){
+							if(json_msg['success']){
+								alert("Object added into targeting list!");
+							}else{
+								alert("ERROR!");
+								return;
+							}
+						});						
+					});
+					
+					$(".feedback").bind('click', function(e){
+						e.preventDefault();
+						
+						var feedback = $(this).next().val();
+						var uni_id = $(this).data('unique_id');
+						
+						if(!feedback){
+							alert("ERROR");
+							return;
+						}
+						
+						$.ajax({type: "POST",
+								url: "http://astro.cs.pitt.edu/di/SN/web/db/feedbackSN.php",
+								data: {feedback: 1, _feedback: feedback, _uni_id: uni_id},
+								dataType: "json"
+						}).done(function(json_msg){
+							if(json_msg['success']){
+								alert("Your feedback has been submitted!");
+							}else{
+								alert("ERROR!");
+								return;
+							}
+						});							
+					});
+				});
+			});
+		</script>
+	</head>
+	
+	<body>
+		<h4><font color="red">The index page, showing integrated list of transient events in order of time.</font></h4>
+		<div id="display">
+			<div class="item">
+				<label>This is an example:</label>
+				<ul>
+					<li>RA, Declination (hms dms): 167.97708, 45.53747 (11h 11m 54.5s +45d 32' 14.89")</li>
+					<li>Labels: PSN J11115450+4532149, MASTER OT J111154.50+453214.9</li>
+					<li>Miscellaneous:</li>
+					<table border="1">
+						<tr><th>Type</th><th>Redshift</th><th>Disc Mag.</th><th>Phase</th></tr>
+						<tr><td>Ia</td><td>0.02</td><td>16.5</td><td>a few week after peak</td></tr>
+					</table>
+					<li>Messages:</li>
+					<div>
+						<ul>
+							<div class="abstract">
+								<li>Report of object/annotation from SkyAlert/ATel/CBET...</li>
+								<a href="#" class="toggle">Details...</a>
+							</div>
+							<div class="detail" style="display:none">
+								<p>title</p>
+								<p>update time</p>
+								<p><a href="#">link</a></p>
+								<p>description</p>
+							</div>
+							<div>
+								<p>(a bunch more...)</p>
+							</div>
+						</ul>
+					</div>
+				</ul>
+			</div>
+			<br/>
+			<hr/>
+			<br/>
+		</div>
+	</body>
+</html>

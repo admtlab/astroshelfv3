@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListOfRssFeedSources>
+<!-- 
+=============================================================
+Description:
+************
+This XML file is used as an input file for the custom 
+RSS feed aggregator. This is where you will specify
+details about the RSS feed providers, from whom you 
+would like to obtain their latest RSS feeds.
+You can customize this file with your feed sources.
+
+For each new RSS feed provider, you will have to enter
+the following child elements enclosed within the
+<RssFeedSourceInfo>...</RssFeedSourceInfo> element pair.
+1) rssFeedProviderName - Name of the provider
+2) rssFeedProviderUrl  - URL for the RSS site
+3) lastUpdatedTime - The updated time of the feed for last fetch. 
+
+Di Bao
+02/13/2013
+ADMT Lab - Supernovae Project
+=============================================================
+-->
+
+	<RssFeedSourceInfo>
+            <rssFeedProviderName>Skyalert/CBAT: Central Bureau for Astronomical Telegrams</rssFeedProviderName>
+     	    <rssFeedProviderUrl>http://skyalert.org/feeds/290/</rssFeedProviderUrl>
+    	    <lastUpdatedTime>0</lastUpdatedTime>
+ 	</RssFeedSourceInfo>
+
+	<RssFeedSourceInfo>
+            <rssFeedProviderName>Skyalert/CRTS: CRTS and SDSS Galaxy</rssFeedProviderName>
+     	    <rssFeedProviderUrl>http://skyalert.org/feeds/147/</rssFeedProviderUrl>
+    	    <lastUpdatedTime>0</lastUpdatedTime>
+ 	</RssFeedSourceInfo>
+	
+	<RssFeedSourceInfo>
+            <rssFeedProviderName>Skyalert/CRTS2: Bright CRTS2</rssFeedProviderName>
+     	    <rssFeedProviderUrl>http://skyalert.org/feeds/149/</rssFeedProviderUrl>
+    	    <lastUpdatedTime>0</lastUpdatedTime>
+ 	</RssFeedSourceInfo>
+	
+	<RssFeedSourceInfo>
+            <rssFeedProviderName>Skyalert/CRTS: CRTS and P60</rssFeedProviderName>
+     	    <rssFeedProviderUrl>http://skyalert.org/feeds/228/</rssFeedProviderUrl>
+    	    <lastUpdatedTime>0</lastUpdatedTime>
+ 	</RssFeedSourceInfo>
+	
+	<RssFeedSourceInfo>
+            <rssFeedProviderName>The Astronomer's Telegram: supernovae</rssFeedProviderName>
+     	    <rssFeedProviderUrl>http://www.astronomerstelegram.org/?rss+supernovae</rssFeedProviderUrl>
+    	    <lastUpdatedTime>0</lastUpdatedTime>
+ 	</RssFeedSourceInfo>
+	
+	<RssFeedSourceInfo>
+            <rssFeedProviderName>CBET: Supernovae</rssFeedProviderName>
+     	    <rssFeedProviderUrl>http://www.cbat.eps.harvard.edu/rss/cbat/supernova.xml</rssFeedProviderUrl>
+    	    <lastUpdatedTime>0</lastUpdatedTime>
+			<username>MWV</username>
+			<password>KSPLIC</password>
+ 	</RssFeedSourceInfo>
+
+</ListOfRssFeedSources>

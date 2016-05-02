@@ -1,0 +1,179 @@
+<html>
+	<head>
+		<title>Supernovae Project v0.1</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+		<!--
+		<script src="lib/" type="text/javascript" />
+		-->
+		<script type="text/javascript">
+			jQuery(document).ready(function($){
+				function search(usr, pwd){
+					//alert(name + " and " + ra + " and " + dec + " and " + epsilon);
+					if(!usr || !pwd){
+						alert("ERROR:\n");
+						return;
+					}
+					
+					$.ajax({type: "POST",
+							url: "http://astro.cs.pitt.edu/di/SN/web/db/listSN.php",
+							data: {list: 1, _usr: usr, _pwd: pwd},
+							dataType: "json"
+					}).done(function(json_msg){
+						if(jQuery.isEmptyObject(json_msg))	empty();
+						else if(json_msg.hasOwnProperty("ERROR"))	invalid_login(json_msg["ERROR"]);
+						else	listing(json_msg);
+					});
+				};
+				
+				function empty(){
+					$("#display").append('<div class="list">No such user...</div>');
+				};
+				
+				function invalid_login(msg){
+					$("#display").append('<div class="list">' + msg + '</div>');
+				};
+				
+				function listing(json_msg){
+					var res = json_msg;
+					
+					jQuery.each(res, function(){
+						$("#display").append('<div class="list"><ul></ul></div>');
+						$("#display ul:last").append('<li>List ID: ' + this.id + '</li>');
+						$("#display ul:last").append('<li>List name: ' + this.name + '</li>');
+						$("#display ul:last").append('<li>Description: ' + this.description + '</li>');
+						$("#display ul:last").append('<li>Author: ' + this.owner + '</li>');
+						$("#display ul:last").append('<li>Create time: ' + this.create_time + '</li>');
+						$("#display ul:last").append('<li>Targeting list:</li>');
+						$("#display div:last").append('<p></p><br/><hr style="border:dashed;border-width:1px"/>');
+						
+						var list_id = this.id;
+						
+						/* Header of table */
+						var html_header = '<table><th>' + 
+										'<td>&nbsp;&nbsp;ID&nbsp;&nbsp;</td><td>&nbsp;&nbsp;Name&nbsp;&nbsp;</td><td>&nbsp;&nbsp;RA&nbsp;&nbsp;</td>' +'<td>&nbsp;&nbsp;Dec&nbsp;&nbsp;</td><td>&nbsp;&nbsp;hmsdms&nbsp;&nbsp;</td>' + '<td>&nbsp;&nbsp;Type&nbsp;&nbsp;</td><td>&nbsp;&nbsp;Redshift&nbsp;&nbsp;</td>' + '<td>&nbsp;&nbsp;Disc_mag&nbsp;&nbsp;</td><td>&nbsp;&nbsp;Phase&nbsp;&nbsp;</td>' +
+										'<td>&nbsp;&nbsp;Details&nbsp;&nbsp;</td><td>&nbsp;&nbsp;Delete&nbsp;&nbsp;</td></th>';
+						$("#display p:last").append(html_header);
+						
+						jQuery.each(this.objects, function(){
+								
+							var ra_dec_str = parseFloat(this.ra).toFixed(5) + ', ' + parseFloat(this.dec).toFixed(5) + ' (' + this.hmsdms + ')'; // ra dec
+							var names_str = ""; // name
+							jQuery.each(this.names, function(){
+								names_str += this + ", ";
+							});
+							names_str = names_str.substring(0, names_str.length-2);
+							
+							var miscs_str = ""; // miscs
+							var type_arr = new Array();
+							var redshift_arr = new Array();
+							var disc_mag_arr = new Array();
+							var phase_arr = new Array();
+							jQuery.each(this.miscs, function(){
+								if(this.type != "undefine")	type_arr.push(this.type);
+								if(this.redshift != 0)	redshift_arr.push(this.redshift);
+								if(this.disc_mag != 0)	disc_mag_arr.push(this.disc_mag);
+								if(this.phase != "undefine")	phase_arr.push(this.phase);
+							});
+							var type_str = jQuery.unique(type_arr).join(' | ');
+							var redshift_str = jQuery.unique(redshift_arr).join(' | ');
+							var disc_mag_str = jQuery.unique(disc_mag_arr).join(' | ');
+							var phase_str = jQuery.unique(phase_arr).join(' | ');
+							if(!type_str)	type_str = "N/A";
+							if(!redshift_str)	redshift_str = "N/A";
+							if(!disc_mag_str)	disc_mag_str = "N/A";
+							if(!phase_str)	phase_str = "N/A";
+							
+							miscs_str += 'Miscellaneous:<br/>';
+							miscs_str += 'Type&nbsp;&nbsp;Redshift&nbsp;&nbsp;Disc Mag.&nbsp;&nbsp;Phase<br/>';
+							miscs_str += type_str + '&nbsp;&nbsp;' + redshift_str + '&nbsp;&nbsp;' + disc_mag_str + '&nbsp;&nbsp;' + phase_str;
+							
+							var msg_str = "";
+							msg_str += 'Messages:<br/>';
+							jQuery.each(this.messages, function(){
+								msg_str += this.title + '<br/>';
+								msg_str += this.update_time + '<br/>';
+								msg_str += '<a href="' + this.link + '">' + this.link + '</a><br/>';
+								msg_str += this.description + '<br/><br/>';
+							});
+							
+							/* content of table */
+							var html_content = '<tr><td>&nbsp;&nbsp;'+this.id+'&nbsp;&nbsp;</td><td>&nbsp;&nbsp;'+names_str+'&nbsp;&nbsp;</td><td>&nbsp;&nbsp;'+parseFloat(this.ra).toFixed(5)+'&nbsp;&nbsp;</td>' + 
+												'<td>&nbsp;&nbsp;'+parseFloat(this.dec).toFixed(5)+'&nbsp;&nbsp;</td><td>&nbsp;&nbsp;'+this.hmsdms+'&nbsp;&nbsp;</td>' + 
+												'<td>&nbsp;&nbsp;'+type_str+'&nbsp;&nbsp;</td><td>&nbsp;&nbsp;'+redshift_str+'&nbsp;&nbsp;</td><td>&nbsp;&nbsp;'+disc_mag_str+'&nbsp;&nbsp;</td><td>&nbsp;&nbsp;'+phase_str+'&nbsp;&nbsp;</td>' + 
+												'<td>&nbsp;&nbsp;<a href="#" class="link">more</a>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;<a href="#" class="delete">delete</a>&nbsp;&nbsp;</td></tr>';
+							$("#display p:last").append(html_content);
+							
+							$("#display a.link:last").data('data', ra_dec_str + '<br/><br/>' + names_str + '<br/><br/>' + miscs_str + '<br/><br/>' + msg_str);
+							$("#display a.delete:last").data('list_id', list_id);
+							$("#display a.delete:last").data('uni_id', this.id);
+						});
+						
+						/* footer of table */
+						var html_footer = '</table>';
+						$("#display p:last").append(html_footer);
+					});
+
+					$("a[class=link]").bind('click', function(e){
+						e.preventDefault();
+						
+						var content = $(this).data('data');
+						console.log(content);
+						var windowName = "More details on SUPERNOVA";
+						var windowSize = "width=800,height=800,scrollbars=yes";
+						var OpenWindow = window.open('', windowName, windowSize);
+						OpenWindow.document.write(content);
+					});
+					
+					$("a[class=delete]").bind('click', function(e){
+						e.preventDefault();
+						
+						var list_id = $(this).data('list_id');
+						var uni_id = $(this).data('uni_id');
+						//console.log(list_id + ' ' + uni_id);
+						$.ajax({type: "POST",
+								url: "http://astro.cs.pitt.edu/di/SN/web/db/listSN.php",
+								data: {delete: 1, _list_id: list_id, _uni_id: uni_id},
+								dataType: "json"
+						}).done(function(json_msg){
+							if(json_msg['success']){
+								alert("object deleted from targeting list");
+							}else{
+								alert("ERROR!");
+								return;
+							}
+						});
+						$(this).prev().remove();
+						$(this).remove();						
+					});
+				};
+				
+				function clean(){
+					$("div.list").remove();
+					$("#password").val('');
+				}
+				
+				$("#login").bind('click', function(){
+					var username = String($("#username").val());
+					var password = String($("#password").val());
+					clean();
+					search(username, password);
+				});
+			});
+		</script>
+	</head>
+	
+	<body>
+		<h4><font color="red">The list page, login to review Targeting List per author.</font></h4>
+		<div class="login">
+			<label>Author Name: </label>
+			<input type="text" id="username" size="15" /><br/><br/>
+			<label>Password: </label>
+			<input type="password" id="password" size="15" />&nbsp;&nbsp;
+			<input type="button" id="login" value="login" />
+		</div>
+		<br/><hr/><br/>
+		<div id="display">
+		</div>
+	</body>
+</html>
