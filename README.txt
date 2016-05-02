@@ -4,8 +4,7 @@ AstroShelf repository
 
 For more information: http://astro.cs.pitt.edu
 Live web application: https://astro.cs.pitt.edu/astroshelfv3
-Demo video 1 (web application):
-Demo video 2 (REST API):
+Demo video playlist: https://www.youtube.com/playlist?list=PLPArrqI0SKO8F1KBwLeWtKAfS0gB8PXGb
 
 
 What's here:
